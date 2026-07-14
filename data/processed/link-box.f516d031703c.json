@@ -1,0 +1,1140 @@
+{
+  "source_file": "Link box.pdf",
+  "source_file_stem": "Link box",
+  "source_path": "knowledge/Raychem_Catalogues/Link box.pdf",
+  "file_hash": "f516d031703c0118c1a1cefeb9f4e2a61a841013f9976f9a0a44e914f2d8466e",
+  "metadata": {
+    "vendor": "raychem",
+    "brand": "unknown_brand",
+    "product": "unknown_product",
+    "document_type": "product_kb_pdf"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "RAYCHEM LINK BOXES\nKEY FEATURES TE Connectivity’s (TE) Raychem link boxes are used with cable\njoints and terminations to provide easy access to shield breaks for\n• Different designs available\ntest purposes and to limit voltage build-up on the sheath. Lightning,\n• Stainless steel box fault currents and switching operations can cause over voltages on\nthe cable sheath. The link box optimizes loss management in the\n• Different mechanical protection\ncable shield on cables grounding both sides.\nlevels up to IP68\n• Electrically and mechanically\ntype tested\n• 1-phase and 3-phase boxes\n• With or without surge arresters\n• With or without removable links\n• For concentric cables or single\ncore cables\n• Cross sections up to 300 mm2\n• ZnO sheath voltage limited\nfor up to 7 kV protection levels,\nlarger protection levels on request\n• Short circuit current up to\n40 kA 1 sec\nENERGY /// RAYCHEM LINK BOXES",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 1,
+          "image_number": 1,
+          "xref": 2143,
+          "width": 2296,
+          "height": 1305,
+          "local_path": "data/extracted_images/link-box/page_1_img_1.png",
+          "storage_path": "raychem/link-box/page_1_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/link-box/page_1_img_1.png",
+          "caption": null,
+          "context_text": "RAYCHEM LINK BOXES KEY FEATURES TE Connectivity’s (TE) Raychem link boxes are used with cable joints and terminations to provide easy access to shield breaks for • Different designs available test purposes and to limit voltage build-up on the sheath. Lightning, • Stainless steel box fault currents and switching operations can cause over voltages on the cable sheath. The link box optimizes loss management in the • Different mechanical protection cable shield on cables grounding both sides. levels up to IP68 • Electrically and mechanically type tested • 1-phase and 3-phase boxes • With or without surge arresters • With or without removable links • For concentric cables or single core cables • Cross sections up to 300 mm2 • ZnO sheath voltage limited for up to 7 kV protection levels, larger protection levels on request • Short circuit current up to 40 kA 1 sec ENERGY /// RAYCHEM LINK BOXES"
+        },
+        {
+          "page_number": 1,
+          "image_number": 2,
+          "xref": 2145,
+          "width": 1187,
+          "height": 681,
+          "local_path": "data/extracted_images/link-box/page_1_img_2.png",
+          "storage_path": "raychem/link-box/page_1_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/link-box/page_1_img_2.png",
+          "caption": null,
+          "context_text": "RAYCHEM LINK BOXES KEY FEATURES TE Connectivity’s (TE) Raychem link boxes are used with cable joints and terminations to provide easy access to shield breaks for • Different designs available test purposes and to limit voltage build-up on the sheath. Lightning, • Stainless steel box fault currents and switching operations can cause over voltages on the cable sheath. The link box optimizes loss management in the • Different mechanical protection cable shield on cables grounding both sides. levels up to IP68 • Electrically and mechanically type tested • 1-phase and 3-phase boxes • With or without surge arresters • With or without removable links • For concentric cables or single core cables • Cross sections up to 300 mm2 • ZnO sheath voltage limited for up to 7 kV protection levels, larger protection levels on request • Short circuit current up to 40 kA 1 sec ENERGY /// RAYCHEM LINK BOXES"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Raychem Link Boxes Product Specifications\nAPPLICATIONS\nSingle core cables in operation carry alternating currents and induced voltages in the metallic sheath of the cable.\nThese currents may cause, depending on the sheath bonding, circulating currents flowing in the cable sheath which\nreduce the transmission capacity of the cable and causes additional heating.\nLink Boxes are used for earthing and bonding cable sheaths of single core cables so that the induced voltages and\ncirculating currents are eliminated or reduced.\nDESIGN ELEMENTS\nTE’s Raychem link boxes have reliable design and the housing (1) is made of stainless steel. The enclosure is water and dust\ntight type tested to fulfill the requirements of protection class IP68 for installations below ground. For other applications,\ne.g. indoor installation, link boxes with less protection class are also available. Designs are capable of withstanding different\nelectrical demands for several voltage classes. The link box lid is lockable (2) by a standard security deadlock. The optional\nsheath voltage limiters (SVL) (3) are made of zinc oxide and are designed to meet the requirements of IEC 60099-4. Link\nboxes with SVL’s are available for different voltage classes and provide active over-voltage protection that contributes\ndirectly to improved reliability of the system. The indoor post-insulators (4) made of epoxy resin are light weight and\nprovide reliable electrical performance. The cable entries (5) are available with different inner diameters to fit single core or\nconcentric cables with different cross sections.\nFor perfect sealing, cable entries are protected with coated heat shrink tubes (6). Sheath bonding cables are fixed by\nvarious methods with compression lugs (7) or by using clamping rings. The tinned copper links (8) are removable and\navailable for cross sections up to 300 mm2.\n8 4 3 2\n1 7 5 6\nENERGY /// RAYCHEM LINK BOXES",
+      "tables": [],
+      "images": []
+    },
+    {
+      "page_number": 3,
+      "text": "Raychem Link Boxes Product Specifications\nSINGLE POINT GROUNDING\nOn relatively short cable sections\nthe cable sheaths are solidly bonded\ntogether and earthed at one position.\nThe sheaths of the three cable\nsections are connected and grounded\nat one point only. At all other points,\nthere will be a voltage between\nsheath and ground that will be at its\nmaximum at the farthest point from\nthe ground bond. Since there is no\nclosed sheath circuit, current does\nnot flow along the sheaths and no\nsheath circulation current loss occurs.\nCROSS BONDING\nThe cable route is sectionalized into\nequal lengths. The sections are cross\nconnected to neutralize the induced\nvoltages. The phase sum of the\nintroduced voltages will be zero and\nhence there will be no circulating\ncurrents when the cable laying is\nsymmetrical.\nCROSS BONDING AND TRANSPOSITION\nFor cable laying in unsymmetrical\nformations the induced voltages are\nnot equal at each phase and there-\nfore the phase sum of the voltages\nare not zero despite cross bonding.\nThe cables are transposed at each\njoint position and the cable sheaths\nare cross connected, each cable\noccupies the same relative position\nin the cable formation. By this\nmeans the phase sum of the induced\nvoltage sheaths is over three sections\nthe same.\nTYPICAL APPLICATION EXAMPLE\nEENNEERRGGYY ////// RRAAYYCCHHEEMM LLIINNKK BBOOXXEESS",
+      "tables": [
+        {
+          "page_number": 3,
+          "table_number": 1,
+          "rows": [
+            [
+              "",
+              "Raychem Link Boxes Product Specifications",
+              "",
+              ""
+            ]
+          ],
+          "markdown": "| Column 1 | Raychem Link Boxes Product Specifications | Column 3 | Column 4 |\n| --- | --- | --- | --- |\n|  |  |  |  |"
+        }
+      ],
+      "images": []
+    },
+    {
+      "page_number": 4,
+      "text": "Raychem Link Boxes Product Specifications\nSELECTION TABLES\nA B\nBonding lead (type) Single-core Single-core\nBonding lead (mm2) 95 - 300 95 - 300\nProtection class IP 68 IP 68\nApplication Buried Buried\nSheath voltage limiters N/A 1 kV-6 kV\nBox size (LxHxW) (mm) 496x322x451 496x322x451\nMaterial Stainless steel Stainless steel\nTotal weight Approx. 80 lbs Approx. 80 lbs\nConnection links Removable tinned Removable tinned\ncopper 300 mm2 copper 300 mm2\nCable connection Compression lug Compression lug\nImpulse withstand voltage (kV) 55 55\nAC withstand voltage (kV) - -\nDC withstand voltage (kV) 25 25\nShort circuit current (kA/1s) 40 40\nDescription HVLB-E-S-0-1-2-U-IP68 HVLB-E-S-x*-1-2-U-IP68\nBonding lead (type) Single-core Single-core\nBonding lead (mm2) 95 - 300 95 - 300\nProtection class IP 68 IP 68\nApplication Buried Buried\nSheath voltage limiters N/A 1 kV-6 kV\nBox size (LxHxW) (mm) 496x322x725 496x322x725\nMaterial Stainless steel Stainless steel\nTotal weight Approx. 145 lbs Approx. 145 lbs\nConnection links Removable tinned Removable tinned\ncopper 300 mm2 copper 300 mm2\nCable connection Compression lug Compression lug\nImpulse withstand voltage (kV) 55 55\nAC withstand voltage (kV) - -\nDC withstand voltage (kV) 25 25\nShort circuit current (kA/1s) 40 40\nDescription HVLB-E-S-0-3-2-U-IP68 HVLB-E-S-x*-3-2-U-IP68\nBonding lead (type) Single-core Single-core\nBonding lead (mm2) 95 - 300 95 - 300\nProtection class IP 68 IP 68\nApplication Buried Buried\nSheath voltage limiters N/A 1 kV-6 kV\nBox size (LxHxW) (mm) 496x322x725 496x322x725\nMaterial Stainless steel Stainless steel\nTotal weight Approx. 145 lbs Approx. 145 lbs\nConnection links Removable tinned Removable tinned\ncopper 300 mm2 copper 300 mm2\nCable connection Compression lug Compression lug\nImpulse withstand voltage (kV) 55 55\nAC withstand voltage (kV) - -\nDC withstand voltage (kV) 25 25\nShort circuit current (kA/1s) 40 40\nDescription HVLB-E-S-0-4-2-U-IP68 HVLB-E-S-x*-4-2-U-IP68\n* indicates voltage class of the sheath voltage limiter (SVL)\nENERGY /// RAYCHEM LINK BOXES",
+      "tables": [
+        {
+          "page_number": 4,
+          "table_number": 1,
+          "rows": [
+            [
+              "Raychem Link Boxes Product Specifications",
+              "",
+              ""
+            ]
+          ],
+          "markdown": "| Raychem Link Boxes Product Specifications | Column 2 | Column 3 |\n| --- | --- | --- |\n|  |  |  |"
+        },
+        {
+          "page_number": 4,
+          "table_number": 2,
+          "rows": [
+            [
+              "SELECTION TABLES",
+              "",
+              ""
+            ],
+            [
+              "",
+              "A",
+              "B"
+            ],
+            [
+              "Bonding lead (type)",
+              "Single-core",
+              "Single-core"
+            ],
+            [
+              "Bonding lead (mm2)",
+              "95 - 300",
+              "95 - 300"
+            ],
+            [
+              "Protection class",
+              "IP 68",
+              "IP 68"
+            ],
+            [
+              "Application",
+              "Buried",
+              "Buried"
+            ],
+            [
+              "Sheath voltage limiters",
+              "N/A",
+              "1 kV-6 kV"
+            ],
+            [
+              "Box size (LxHxW) (mm)",
+              "496x322x451",
+              "496x322x451"
+            ],
+            [
+              "Material",
+              "Stainless steel",
+              "Stainless steel"
+            ],
+            [
+              "Total weight",
+              "Approx. 80 lbs",
+              "Approx. 80 lbs"
+            ],
+            [
+              "Connection links",
+              "Removable tinned",
+              "Removable tinned"
+            ],
+            [
+              "",
+              "copper 300 mm2",
+              "copper 300 mm2"
+            ],
+            [
+              "Cable connection",
+              "Compression lug",
+              "Compression lug"
+            ],
+            [
+              "Impulse withstand voltage (kV)",
+              "55",
+              "55"
+            ],
+            [
+              "AC withstand voltage (kV)",
+              "-",
+              "-"
+            ],
+            [
+              "DC withstand voltage (kV)",
+              "25",
+              "25"
+            ],
+            [
+              "Short circuit current (kA/1s)",
+              "40",
+              "40"
+            ],
+            [
+              "Description",
+              "HVLB-E-S-0-1-2-U-IP68",
+              "HVLB-E-S-x*-1-2-U-IP68"
+            ]
+          ],
+          "markdown": "| SELECTION TABLES | Column 2 | Column 3 |\n| --- | --- | --- |\n|  | A | B |\n| Bonding lead (type) | Single-core | Single-core |\n| Bonding lead (mm2) | 95 - 300 | 95 - 300 |\n| Protection class | IP 68 | IP 68 |\n| Application | Buried | Buried |\n| Sheath voltage limiters | N/A | 1 kV-6 kV |\n| Box size (LxHxW) (mm) | 496x322x451 | 496x322x451 |\n| Material | Stainless steel | Stainless steel |\n| Total weight | Approx. 80 lbs | Approx. 80 lbs |\n| Connection links | Removable tinned | Removable tinned |\n|  | copper 300 mm2 | copper 300 mm2 |\n| Cable connection | Compression lug | Compression lug |\n| Impulse withstand voltage (kV) | 55 | 55 |\n| AC withstand voltage (kV) | - | - |\n| DC withstand voltage (kV) | 25 | 25 |\n| Short circuit current (kA/1s) | 40 | 40 |\n| Description | HVLB-E-S-0-1-2-U-IP68 | HVLB-E-S-x*-1-2-U-IP68 |"
+        },
+        {
+          "page_number": 4,
+          "table_number": 3,
+          "rows": [
+            [
+              "Bonding lead (type)",
+              "Single-core",
+              "Single-core"
+            ],
+            [
+              "Bonding lead (mm2)",
+              "95 - 300",
+              "95 - 300"
+            ],
+            [
+              "Protection class",
+              "IP 68",
+              "IP 68"
+            ],
+            [
+              "Application",
+              "Buried",
+              "Buried"
+            ],
+            [
+              "Sheath voltage limiters",
+              "N/A",
+              "1 kV-6 kV"
+            ],
+            [
+              "Box size (LxHxW) (mm)",
+              "496x322x725",
+              "496x322x725"
+            ],
+            [
+              "Material",
+              "Stainless steel",
+              "Stainless steel"
+            ],
+            [
+              "Total weight",
+              "Approx. 145 lbs",
+              "Approx. 145 lbs"
+            ],
+            [
+              "Connection links",
+              "Removable tinned copper 300 mm2",
+              "Removable tinned copper 300 mm2"
+            ],
+            [
+              "Cable connection",
+              "Compression lug",
+              "Compression lug"
+            ],
+            [
+              "Impulse withstand voltage (kV)",
+              "55",
+              "55"
+            ],
+            [
+              "AC withstand voltage (kV)",
+              "-",
+              "-"
+            ],
+            [
+              "DC withstand voltage (kV)",
+              "25",
+              "25"
+            ],
+            [
+              "Short circuit current (kA/1s)",
+              "40",
+              "40"
+            ],
+            [
+              "Description",
+              "HVLB-E-S-0-3-2-U-IP68",
+              "HVLB-E-S-x*-3-2-U-IP68"
+            ]
+          ],
+          "markdown": "| Bonding lead (type) | Single-core | Single-core |\n| --- | --- | --- |\n| Bonding lead (mm2) | 95 - 300 | 95 - 300 |\n| Protection class | IP 68 | IP 68 |\n| Application | Buried | Buried |\n| Sheath voltage limiters | N/A | 1 kV-6 kV |\n| Box size (LxHxW) (mm) | 496x322x725 | 496x322x725 |\n| Material | Stainless steel | Stainless steel |\n| Total weight | Approx. 145 lbs | Approx. 145 lbs |\n| Connection links | Removable tinned copper 300 mm2 | Removable tinned copper 300 mm2 |\n| Cable connection | Compression lug | Compression lug |\n| Impulse withstand voltage (kV) | 55 | 55 |\n| AC withstand voltage (kV) | - | - |\n| DC withstand voltage (kV) | 25 | 25 |\n| Short circuit current (kA/1s) | 40 | 40 |\n| Description | HVLB-E-S-0-3-2-U-IP68 | HVLB-E-S-x*-3-2-U-IP68 |"
+        },
+        {
+          "page_number": 4,
+          "table_number": 4,
+          "rows": [
+            [
+              "Bonding lead (type)",
+              "Single-core",
+              "Single-core",
+              ""
+            ],
+            [
+              "Bonding lead (mm2)",
+              "95 - 300",
+              "95 - 300",
+              ""
+            ],
+            [
+              "Protection class",
+              "IP 68",
+              "IP 68",
+              ""
+            ],
+            [
+              "Application",
+              "Buried",
+              "Buried",
+              ""
+            ],
+            [
+              "Sheath voltage limiters",
+              "N/A",
+              "1 kV-6 kV",
+              ""
+            ],
+            [
+              "Box size (LxHxW) (mm)",
+              "496x322x725",
+              "496x322x7",
+              "25"
+            ],
+            [
+              "Material",
+              "Stainless steel",
+              "Stainless s",
+              "teel"
+            ],
+            [
+              "Total weight",
+              "Approx. 145 lbs",
+              "Approx. 14",
+              "5 lbs"
+            ],
+            [
+              "Connection links",
+              "Removable tinned copper 300 mm2",
+              "Removable copper 30",
+              "tinned 0 mm2"
+            ],
+            [
+              "Cable connection",
+              "Compression lug",
+              "Compressi",
+              "on lug"
+            ],
+            [
+              "Impulse withstand voltage (kV)",
+              "55",
+              "55",
+              ""
+            ],
+            [
+              "AC withstand voltage (kV)",
+              "-",
+              "-",
+              ""
+            ],
+            [
+              "DC withstand voltage (kV)",
+              "25",
+              "25",
+              ""
+            ],
+            [
+              "Short circuit current (kA/1s)",
+              "40",
+              "40",
+              ""
+            ],
+            [
+              "Description",
+              "HVLB-E-S-0-4-2-U-IP68",
+              "HVLB-E-S-",
+              "x*-4-2-U-IP68"
+            ]
+          ],
+          "markdown": "| Bonding lead (type) | Single-core | Single-core | Column 4 |\n| --- | --- | --- | --- |\n| Bonding lead (mm2) | 95 - 300 | 95 - 300 |  |\n| Protection class | IP 68 | IP 68 |  |\n| Application | Buried | Buried |  |\n| Sheath voltage limiters | N/A | 1 kV-6 kV |  |\n| Box size (LxHxW) (mm) | 496x322x725 | 496x322x7 | 25 |\n| Material | Stainless steel | Stainless s | teel |\n| Total weight | Approx. 145 lbs | Approx. 14 | 5 lbs |\n| Connection links | Removable tinned copper 300 mm2 | Removable copper 30 | tinned 0 mm2 |\n| Cable connection | Compression lug | Compressi | on lug |\n| Impulse withstand voltage (kV) | 55 | 55 |  |\n| AC withstand voltage (kV) | - | - |  |\n| DC withstand voltage (kV) | 25 | 25 |  |\n| Short circuit current (kA/1s) | 40 | 40 |  |\n| Description | HVLB-E-S-0-4-2-U-IP68 | HVLB-E-S- | x*-4-2-U-IP68 |"
+        }
+      ],
+      "images": []
+    },
+    {
+      "page_number": 5,
+      "text": "Raychem Link Boxes Product Specifications\nSELECTION TABLES\nSELECTION TABLES\nA B\nBonding lead (type) Single-core Single-core\nBonding lead (mm2) 95 - 300 95 - 300\nProtection class IP 68 IP 68\nApplication Buried Buried\nSheath voltage limiters N/A 1 kV-6 kV\nBox size (LxHxW) (mm) 496x322x995 496x322x995\nMaterial Stainless steel Stainless steel\nTotal weight Approx. 190 lbs Approx. 190 lbs\nConnection links Removable tinned Removable tinned\ncopper 300 mm2 copper 300 mm2\nCable connection Compression lug Compression lug\nImpulse withstand voltage (kV) 55 55\nAC withstand voltage (kV) - -\nDC withstand voltage (kV) 25 25\nShort circuit current (kA/1s) 40 40\nDescription HVLB-E-S-0-5-2-U-IP68 HVLB-E-S-x*-5-2-U-IP68\nBonding lead (type) Single-core Concentric (coaxial)\nBonding lead (mm2) 95 - 300 95+95 - 300+300\nProtection class IP 68 IP 68\nApplication Buried Buried\nSheath voltage limiters 1 kV-6 kV 1 kV-6 kV\nBox size (LxHxW) (mm) 665x395x665 665x395x665\nMaterial Stainless steel Stainless steel\nTotal weight Approx. 150 lbs Approx. 150 lbs\nConnection links Removable tinned Removable tinned\ncopper 300 mm2 copper 300 mm2\nCable connection Clamping ring Clamping ring\nImpulse withstand voltage (kV) 60 60\nAC withstand voltage (kV) 15 15\nDC withstand voltage (kV) - -\nShort circuit current (kA/1s) 40 40\nDescription HVLB-C-S-x*-3-2-U-IP68 HVLB-E-C-x*-3-2-U-IP68\nBonding lead (type) Concentric (coaxial) Concentric (coaxial)\nBonding lead (mm2) 95+95 - 300+300 95+95 - 300+300\nProtection class IP 68 IP 68\nApplication Buried Buried\nSheath voltage limiters N/A 1 kV-6 kV\nBox size (LxHxW) (mm) 621x356x883 621x356x883\nMaterial Stainless steel Stainless steel\nTotal weight Approx. 220 lbs Approx. 220 lbs\nConnection links Removable tinned Removable tinned\ncopper 300 mm2 copper 300 mm2\nCable connection Clamping ring Clamping ring\nImpulse withstand voltage (kV) 55 55\nAC withstand voltage (kV) - -\nDC withstand voltage (kV) 25 25\nShort circuit current (kA/1s) 40 40\nDescription HVLB-E-C-0-3-2-68 HVLB-C-C-x*-3-2-68\n* indicates voltage class of the sheath voltage limiter (SVL)\nENERGY /// RAYCHEM LINK BOXES",
+      "tables": [
+        {
+          "page_number": 5,
+          "table_number": 1,
+          "rows": [
+            [
+              "",
+              "Raychem Link Boxes Product Specifications",
+              "",
+              ""
+            ]
+          ],
+          "markdown": "| Column 1 | Raychem Link Boxes Product Specifications | Column 3 | Column 4 |\n| --- | --- | --- | --- |\n|  |  |  |  |"
+        },
+        {
+          "page_number": 5,
+          "table_number": 2,
+          "rows": [
+            [
+              "SELECTION TABLES SELECTION TABLES",
+              "",
+              ""
+            ],
+            [
+              "",
+              "A",
+              "B"
+            ],
+            [
+              "Bonding lead (type)",
+              "Single-core",
+              "Single-core"
+            ],
+            [
+              "Bonding lead (mm2)",
+              "95 - 300",
+              "95 - 300"
+            ],
+            [
+              "Protection class",
+              "IP 68",
+              "IP 68"
+            ],
+            [
+              "Application",
+              "Buried",
+              "Buried"
+            ],
+            [
+              "Sheath voltage limiters",
+              "N/A",
+              "1 kV-6 kV"
+            ],
+            [
+              "Box size (LxHxW) (mm)",
+              "496x322x995",
+              "496x322x995"
+            ],
+            [
+              "Material",
+              "Stainless steel",
+              "Stainless steel"
+            ],
+            [
+              "Total weight",
+              "Approx. 190 lbs",
+              "Approx. 190 lbs"
+            ],
+            [
+              "Connection links",
+              "Removable tinned copper 300 mm2",
+              "Removable tinned copper 300 mm2"
+            ],
+            [
+              "Cable connection",
+              "Compression lug",
+              "Compression lug"
+            ],
+            [
+              "Impulse withstand voltage (kV)",
+              "55",
+              "55"
+            ],
+            [
+              "AC withstand voltage (kV)",
+              "-",
+              "-"
+            ],
+            [
+              "DC withstand voltage (kV)",
+              "25",
+              "25"
+            ],
+            [
+              "Short circuit current (kA/1s)",
+              "40",
+              "40"
+            ],
+            [
+              "Description",
+              "HVLB-E-S-0-5-2-U-IP68",
+              "HVLB-E-S-x*-5-2-U-IP68"
+            ]
+          ],
+          "markdown": "| SELECTION TABLES SELECTION TABLES | Column 2 | Column 3 |\n| --- | --- | --- |\n|  | A | B |\n| Bonding lead (type) | Single-core | Single-core |\n| Bonding lead (mm2) | 95 - 300 | 95 - 300 |\n| Protection class | IP 68 | IP 68 |\n| Application | Buried | Buried |\n| Sheath voltage limiters | N/A | 1 kV-6 kV |\n| Box size (LxHxW) (mm) | 496x322x995 | 496x322x995 |\n| Material | Stainless steel | Stainless steel |\n| Total weight | Approx. 190 lbs | Approx. 190 lbs |\n| Connection links | Removable tinned copper 300 mm2 | Removable tinned copper 300 mm2 |\n| Cable connection | Compression lug | Compression lug |\n| Impulse withstand voltage (kV) | 55 | 55 |\n| AC withstand voltage (kV) | - | - |\n| DC withstand voltage (kV) | 25 | 25 |\n| Short circuit current (kA/1s) | 40 | 40 |\n| Description | HVLB-E-S-0-5-2-U-IP68 | HVLB-E-S-x*-5-2-U-IP68 |"
+        },
+        {
+          "page_number": 5,
+          "table_number": 3,
+          "rows": [
+            [
+              "Bonding lead (type)",
+              "Single-core",
+              "Concentric (coaxial)"
+            ],
+            [
+              "Bonding lead (mm2)",
+              "95 - 300",
+              "95+95 - 300+300"
+            ],
+            [
+              "Protection class",
+              "IP 68",
+              "IP 68"
+            ],
+            [
+              "Application",
+              "Buried",
+              "Buried"
+            ],
+            [
+              "Sheath voltage limiters",
+              "1 kV-6 kV",
+              "1 kV-6 kV"
+            ],
+            [
+              "Box size (LxHxW) (mm)",
+              "665x395x665",
+              "665x395x665"
+            ],
+            [
+              "Material",
+              "Stainless steel",
+              "Stainless steel"
+            ],
+            [
+              "Total weight",
+              "Approx. 150 lbs",
+              "Approx. 150 lbs"
+            ],
+            [
+              "Connection links",
+              "Removable tinned copper 300 mm2",
+              "Removable tinned copper 300 mm2"
+            ],
+            [
+              "Cable connection",
+              "Clamping ring",
+              "Clamping ring"
+            ],
+            [
+              "Impulse withstand voltage (kV)",
+              "60",
+              "60"
+            ],
+            [
+              "AC withstand voltage (kV)",
+              "15",
+              "15"
+            ],
+            [
+              "DC withstand voltage (kV)",
+              "-",
+              "-"
+            ],
+            [
+              "Short circuit current (kA/1s)",
+              "40",
+              "40"
+            ],
+            [
+              "Description",
+              "HVLB-C-S-x*-3-2-U-IP68",
+              "HVLB-E-C-x*-3-2-U-IP68"
+            ]
+          ],
+          "markdown": "| Bonding lead (type) | Single-core | Concentric (coaxial) |\n| --- | --- | --- |\n| Bonding lead (mm2) | 95 - 300 | 95+95 - 300+300 |\n| Protection class | IP 68 | IP 68 |\n| Application | Buried | Buried |\n| Sheath voltage limiters | 1 kV-6 kV | 1 kV-6 kV |\n| Box size (LxHxW) (mm) | 665x395x665 | 665x395x665 |\n| Material | Stainless steel | Stainless steel |\n| Total weight | Approx. 150 lbs | Approx. 150 lbs |\n| Connection links | Removable tinned copper 300 mm2 | Removable tinned copper 300 mm2 |\n| Cable connection | Clamping ring | Clamping ring |\n| Impulse withstand voltage (kV) | 60 | 60 |\n| AC withstand voltage (kV) | 15 | 15 |\n| DC withstand voltage (kV) | - | - |\n| Short circuit current (kA/1s) | 40 | 40 |\n| Description | HVLB-C-S-x*-3-2-U-IP68 | HVLB-E-C-x*-3-2-U-IP68 |"
+        },
+        {
+          "page_number": 5,
+          "table_number": 4,
+          "rows": [
+            [
+              "Bonding lead (type)",
+              "Concentric (coaxial)",
+              "Concentric (coaxial)",
+              ""
+            ],
+            [
+              "Bonding lead (mm2)",
+              "95+95 - 300+300",
+              "95+95 - 300+300",
+              ""
+            ],
+            [
+              "Protection class",
+              "IP 68",
+              "IP 68",
+              ""
+            ],
+            [
+              "Application",
+              "Buried",
+              "Buried",
+              ""
+            ],
+            [
+              "Sheath voltage limiters",
+              "N/A",
+              "1 kV-6 kV",
+              ""
+            ],
+            [
+              "Box size (LxHxW) (mm)",
+              "621x356x883",
+              "621x356x8",
+              "83"
+            ],
+            [
+              "Material",
+              "Stainless steel",
+              "Stainless s",
+              "teel"
+            ],
+            [
+              "Total weight",
+              "Approx. 220 lbs",
+              "Approx. 22",
+              "0 lbs"
+            ],
+            [
+              "Connection links",
+              "Removable tinned copper 300 mm2",
+              "Removable copper 30",
+              "tinned 0 mm2"
+            ],
+            [
+              "Cable connection",
+              "Clamping ring",
+              "Clamping r",
+              "ing"
+            ],
+            [
+              "Impulse withstand voltage (kV)",
+              "55",
+              "55",
+              ""
+            ],
+            [
+              "AC withstand voltage (kV)",
+              "-",
+              "-",
+              ""
+            ],
+            [
+              "DC withstand voltage (kV)",
+              "25",
+              "25",
+              ""
+            ],
+            [
+              "Short circuit current (kA/1s)",
+              "40",
+              "40",
+              ""
+            ],
+            [
+              "Description",
+              "HVLB-E-C-0-3-2-68",
+              "HVLB-C-C-",
+              "x*-3-2-68"
+            ]
+          ],
+          "markdown": "| Bonding lead (type) | Concentric (coaxial) | Concentric (coaxial) | Column 4 |\n| --- | --- | --- | --- |\n| Bonding lead (mm2) | 95+95 - 300+300 | 95+95 - 300+300 |  |\n| Protection class | IP 68 | IP 68 |  |\n| Application | Buried | Buried |  |\n| Sheath voltage limiters | N/A | 1 kV-6 kV |  |\n| Box size (LxHxW) (mm) | 621x356x883 | 621x356x8 | 83 |\n| Material | Stainless steel | Stainless s | teel |\n| Total weight | Approx. 220 lbs | Approx. 22 | 0 lbs |\n| Connection links | Removable tinned copper 300 mm2 | Removable copper 30 | tinned 0 mm2 |\n| Cable connection | Clamping ring | Clamping r | ing |\n| Impulse withstand voltage (kV) | 55 | 55 |  |\n| AC withstand voltage (kV) | - | - |  |\n| DC withstand voltage (kV) | 25 | 25 |  |\n| Short circuit current (kA/1s) | 40 | 40 |  |\n| Description | HVLB-E-C-0-3-2-68 | HVLB-C-C- | x*-3-2-68 |"
+        }
+      ],
+      "images": []
+    },
+    {
+      "page_number": 6,
+      "text": "Raychem Link Boxes Product Specifications\nSELECTION TABLES\nA B\nBonding lead (type) Single-core Single-core\nBonding lead (mm2) 95 - 300 95 - 300\nProtection class IP 56 IP 56\nApplication Non buried Non buried\nSheath voltage limiters N/A 1 kV-6 kV\nBox size (LxHxW) (mm) 310x255x310 310x255x310\nMaterial Stainless steel Stainless steel\nTotal weight Approx. 35 lbs Approx. 35 lbs\nConnection links Removable copper Removable copper\n240 mm2 240 mm2\nCable connection Compression lug Compression lug\nImpulse withstand voltage (kV) 35 35\nAC withstand voltage (kV) 24 24\nDC withstand voltage (kV) 40 40\nShort circuit current (kA/1s) - -\nDescription HVLB-GND-0-3 HVLB-GND- x*-3\nBonding lead (type) Single-core Single-core\nBonding lead (mm2) 95 - 300 95 - 300\nProtection class IP 56 IP 56\nApplication Non buried Non buried\nSheath voltage limiters N/A 1 kV-6 kV\nBox size (LxHxW) (mm) 310x255x310 310x255x310\nMaterial Stainless steel Stainless steel\nTotal weight Approx. 35 lbs Approx. 35 lbs\nConnection links Copper 240 mm2 Copper 120 mm2\nCable connection Compression lug Compression lug\nImpulse withstand voltage (kV) 35 35\nAC withstand voltage (kV) 24 24\nDC withstand voltage (kV) 40 40\nShort circuit current (kA/1s) - -\nDescription EPPA-055-0-3 EPPA-055-x*-3\nBonding lead (type) Single-core Single-core\nBonding lead (mm2) 95 - 300 95 - 300\nProtection class IP 68 IP 56\nApplication Non buried Non buried\nSheath voltage limiters 1 kV-6 kV 1 kV-6 kV\nBox size (LxHxW) (mm) 310x255x310 310x255x310\nMaterial Stainless steel Stainless steel\nTotal weight Approx. 35 lbs Approx. 35 lbs\nConnection links Copper 120 mm2 Copper 120 mm2\nCable connection Compression lug Compression lug\nImpulse withstand voltage (kV) 35 35\nAC withstand voltage (kV) 24 24\nDC withstand voltage (kV) 40 40\nShort circuit current (kA/1s) - -\nDescription EPPA-055-x*-3-xx-IP68 EPPA-055-x*-3\n* indicates voltage class of the sheath voltage limiter (SVL)\nENERGY /// RAYCHEM LINK BOXES",
+      "tables": [
+        {
+          "page_number": 6,
+          "table_number": 1,
+          "rows": [
+            [
+              "Raychem Link Boxes Product Specifications",
+              "",
+              ""
+            ]
+          ],
+          "markdown": "| Raychem Link Boxes Product Specifications | Column 2 | Column 3 |\n| --- | --- | --- |\n|  |  |  |"
+        },
+        {
+          "page_number": 6,
+          "table_number": 2,
+          "rows": [
+            [
+              "SELECTION TABLES",
+              "",
+              ""
+            ],
+            [
+              "",
+              "A",
+              "B"
+            ],
+            [
+              "Bonding lead (type)",
+              "Single-core",
+              "Single-core"
+            ],
+            [
+              "Bonding lead (mm2)",
+              "95 - 300",
+              "95 - 300"
+            ],
+            [
+              "Protection class",
+              "IP 56",
+              "IP 56"
+            ],
+            [
+              "Application",
+              "Non buried",
+              "Non buried"
+            ],
+            [
+              "Sheath voltage limiters",
+              "N/A",
+              "1 kV-6 kV"
+            ],
+            [
+              "Box size (LxHxW) (mm)",
+              "310x255x310",
+              "310x255x310"
+            ],
+            [
+              "Material",
+              "Stainless steel",
+              "Stainless steel"
+            ],
+            [
+              "Total weight",
+              "Approx. 35 lbs",
+              "Approx. 35 lbs"
+            ],
+            [
+              "Connection links",
+              "Removable copper 240 mm2",
+              "Removable copper 240 mm2"
+            ],
+            [
+              "Cable connection",
+              "Compression lug",
+              "Compression lug"
+            ],
+            [
+              "Impulse withstand voltage (kV) 35 35",
+              "",
+              ""
+            ],
+            [
+              "AC withstand voltage (kV)",
+              "24",
+              "24"
+            ],
+            [
+              "DC withstand voltage (kV) 40 40",
+              "",
+              ""
+            ],
+            [
+              "Short circuit current (kA/1s)",
+              "-",
+              "-"
+            ],
+            [
+              "Description HVLB-GND-0-3 HVLB-GND- x*-3",
+              "",
+              ""
+            ]
+          ],
+          "markdown": "| SELECTION TABLES | Column 2 | Column 3 |\n| --- | --- | --- |\n|  | A | B |\n| Bonding lead (type) | Single-core | Single-core |\n| Bonding lead (mm2) | 95 - 300 | 95 - 300 |\n| Protection class | IP 56 | IP 56 |\n| Application | Non buried | Non buried |\n| Sheath voltage limiters | N/A | 1 kV-6 kV |\n| Box size (LxHxW) (mm) | 310x255x310 | 310x255x310 |\n| Material | Stainless steel | Stainless steel |\n| Total weight | Approx. 35 lbs | Approx. 35 lbs |\n| Connection links | Removable copper 240 mm2 | Removable copper 240 mm2 |\n| Cable connection | Compression lug | Compression lug |\n| Impulse withstand voltage (kV) 35 35 |  |  |\n| AC withstand voltage (kV) | 24 | 24 |\n| DC withstand voltage (kV) 40 40 |  |  |\n| Short circuit current (kA/1s) | - | - |\n| Description HVLB-GND-0-3 HVLB-GND- x*-3 |  |  |"
+        },
+        {
+          "page_number": 6,
+          "table_number": 4,
+          "rows": [
+            [
+              "Bonding lead (type)",
+              "Single-core",
+              "Single-core"
+            ],
+            [
+              "Bonding lead (mm2)",
+              "95 - 300",
+              "95 - 300"
+            ],
+            [
+              "Protection class",
+              "IP 56",
+              "IP 56"
+            ],
+            [
+              "Application",
+              "Non buried",
+              "Non buried"
+            ],
+            [
+              "Sheath voltage limiters",
+              "N/A",
+              "1 kV-6 kV"
+            ],
+            [
+              "Box size (LxHxW) (mm)",
+              "310x255x310",
+              "310x255x310"
+            ],
+            [
+              "Material",
+              "Stainless steel",
+              "Stainless steel"
+            ],
+            [
+              "Total weight",
+              "Approx. 35 lbs",
+              "Approx. 35 lbs"
+            ],
+            [
+              "Connection links",
+              "Copper 240 mm2",
+              "Copper 120 mm2"
+            ],
+            [
+              "Cable connection",
+              "Compression lug",
+              "Compression lug"
+            ],
+            [
+              "Impulse withstand voltage (kV)",
+              "35",
+              "35"
+            ],
+            [
+              "AC withstand voltage (kV)",
+              "24",
+              "24"
+            ],
+            [
+              "DC withstand voltage (kV)",
+              "40",
+              "40"
+            ],
+            [
+              "Short circuit current (kA/1s)",
+              "-",
+              "-"
+            ],
+            [
+              "Description",
+              "EPPA-055-0-3",
+              "EPPA-055-x*-3"
+            ]
+          ],
+          "markdown": "| Bonding lead (type) | Single-core | Single-core |\n| --- | --- | --- |\n| Bonding lead (mm2) | 95 - 300 | 95 - 300 |\n| Protection class | IP 56 | IP 56 |\n| Application | Non buried | Non buried |\n| Sheath voltage limiters | N/A | 1 kV-6 kV |\n| Box size (LxHxW) (mm) | 310x255x310 | 310x255x310 |\n| Material | Stainless steel | Stainless steel |\n| Total weight | Approx. 35 lbs | Approx. 35 lbs |\n| Connection links | Copper 240 mm2 | Copper 120 mm2 |\n| Cable connection | Compression lug | Compression lug |\n| Impulse withstand voltage (kV) | 35 | 35 |\n| AC withstand voltage (kV) | 24 | 24 |\n| DC withstand voltage (kV) | 40 | 40 |\n| Short circuit current (kA/1s) | - | - |\n| Description | EPPA-055-0-3 | EPPA-055-x*-3 |"
+        },
+        {
+          "page_number": 6,
+          "table_number": 6,
+          "rows": [
+            [
+              "Bonding lead (type)",
+              "Single-core",
+              "Single-core",
+              ""
+            ],
+            [
+              "Bonding lead (mm2)",
+              "95 - 300",
+              "95 - 300",
+              ""
+            ],
+            [
+              "Protection class",
+              "IP 68",
+              "IP 56",
+              ""
+            ],
+            [
+              "Application",
+              "Non buried",
+              "Non buried",
+              ""
+            ],
+            [
+              "Sheath voltage limiters",
+              "1 kV-6 kV",
+              "1 kV-6 kV",
+              ""
+            ],
+            [
+              "Box size (LxHxW) (mm)",
+              "310x255x310",
+              "310x255x3",
+              "10"
+            ],
+            [
+              "Material",
+              "Stainless steel",
+              "Stainless s",
+              "teel"
+            ],
+            [
+              "Total weight",
+              "Approx. 35 lbs",
+              "Approx. 35",
+              "lbs"
+            ],
+            [
+              "Connection links",
+              "Copper 120 mm2",
+              "Copper 120",
+              "mm2"
+            ],
+            [
+              "Cable connection",
+              "Compression lug",
+              "Compressi",
+              "on lug"
+            ],
+            [
+              "Impulse withstand voltage (kV)",
+              "35",
+              "35",
+              ""
+            ],
+            [
+              "AC withstand voltage (kV)",
+              "24",
+              "24",
+              ""
+            ],
+            [
+              "DC withstand voltage (kV)",
+              "40",
+              "40",
+              ""
+            ],
+            [
+              "Short circuit current (kA/1s)",
+              "-",
+              "-",
+              ""
+            ],
+            [
+              "Description",
+              "EPPA-055-x*-3-xx-IP68",
+              "EPPA-055",
+              "-x*-3"
+            ]
+          ],
+          "markdown": "| Bonding lead (type) | Single-core | Single-core | Column 4 |\n| --- | --- | --- | --- |\n| Bonding lead (mm2) | 95 - 300 | 95 - 300 |  |\n| Protection class | IP 68 | IP 56 |  |\n| Application | Non buried | Non buried |  |\n| Sheath voltage limiters | 1 kV-6 kV | 1 kV-6 kV |  |\n| Box size (LxHxW) (mm) | 310x255x310 | 310x255x3 | 10 |\n| Material | Stainless steel | Stainless s | teel |\n| Total weight | Approx. 35 lbs | Approx. 35 | lbs |\n| Connection links | Copper 120 mm2 | Copper 120 | mm2 |\n| Cable connection | Compression lug | Compressi | on lug |\n| Impulse withstand voltage (kV) | 35 | 35 |  |\n| AC withstand voltage (kV) | 24 | 24 |  |\n| DC withstand voltage (kV) | 40 | 40 |  |\n| Short circuit current (kA/1s) | - | - |  |\n| Description | EPPA-055-x*-3-xx-IP68 | EPPA-055 | -x*-3 |"
+        }
+      ],
+      "images": []
+    },
+    {
+      "page_number": 7,
+      "text": "Raychem Link Boxes Product Specifications\nSELECTION TABLES\nA B\nBonding lead (type) Single-core Single-core\nBonding lead (mm2) 95 - 300 95 - 300\nProtection class IP 56 IP 56\nApplication Non buried Non buried\nSheath voltage limiters N/A 1 kV-6 kV\nBox size (LxHxW) (mm) 300x165x190 300x165x190\nMaterial Stainless steel Stainless steel\nTotal weight Approx. 22lbs Approx. 22 lbs\nConnection links Removable copper Removable copper\n120 mm2 120 mm2\nCable connection Compression lug Compression lug\nImpulse withstand voltage (kV) 35 35\nAC withstand voltage (kV) 24 24\nDC withstand voltage (kV) 40 40\nShort circuit current (kA/1s) - -\nDescription EPPA-055-0-1 EPPA-055-x*-1\n* indicates voltage class of the sheath voltage limiter (SVL)\nENERGY /// RAYCHEM LINK BOXES",
+      "tables": [
+        {
+          "page_number": 7,
+          "table_number": 1,
+          "rows": [
+            [
+              "",
+              "Raychem Link Boxes Product Specifications",
+              "",
+              ""
+            ]
+          ],
+          "markdown": "| Column 1 | Raychem Link Boxes Product Specifications | Column 3 | Column 4 |\n| --- | --- | --- | --- |\n|  |  |  |  |"
+        },
+        {
+          "page_number": 7,
+          "table_number": 2,
+          "rows": [
+            [
+              "SELECTION TABLES",
+              "",
+              ""
+            ],
+            [
+              "",
+              "A",
+              "B"
+            ],
+            [
+              "Bonding lead (type)",
+              "Single-core",
+              "Single-core"
+            ],
+            [
+              "Bonding lead (mm2)",
+              "95 - 300",
+              "95 - 300"
+            ],
+            [
+              "Protection class",
+              "IP 56",
+              "IP 56"
+            ],
+            [
+              "Application",
+              "Non buried",
+              "Non buried"
+            ],
+            [
+              "Sheath voltage limiters",
+              "N/A",
+              "1 kV-6 kV"
+            ],
+            [
+              "Box size (LxHxW) (mm)",
+              "300x165x190",
+              "300x165x190"
+            ],
+            [
+              "Material",
+              "Stainless steel",
+              "Stainless steel"
+            ],
+            [
+              "Total weight",
+              "Approx. 22lbs",
+              "Approx. 22 lbs"
+            ],
+            [
+              "Connection links",
+              "Removable copper 120 mm2",
+              "Removable copper 120 mm2"
+            ],
+            [
+              "Cable connection",
+              "Compression lug",
+              "Compression lug"
+            ],
+            [
+              "Impulse withstand voltage (kV) 35 35",
+              "",
+              ""
+            ],
+            [
+              "AC withstand voltage (kV)",
+              "24",
+              "24"
+            ],
+            [
+              "DC withstand voltage (kV) 40 40",
+              "",
+              ""
+            ],
+            [
+              "Short circuit current (kA/1s)",
+              "-",
+              "-"
+            ],
+            [
+              "Description EPPA-055-0-1 EPPA-055-x*-1",
+              "",
+              ""
+            ]
+          ],
+          "markdown": "| SELECTION TABLES | Column 2 | Column 3 |\n| --- | --- | --- |\n|  | A | B |\n| Bonding lead (type) | Single-core | Single-core |\n| Bonding lead (mm2) | 95 - 300 | 95 - 300 |\n| Protection class | IP 56 | IP 56 |\n| Application | Non buried | Non buried |\n| Sheath voltage limiters | N/A | 1 kV-6 kV |\n| Box size (LxHxW) (mm) | 300x165x190 | 300x165x190 |\n| Material | Stainless steel | Stainless steel |\n| Total weight | Approx. 22lbs | Approx. 22 lbs |\n| Connection links | Removable copper 120 mm2 | Removable copper 120 mm2 |\n| Cable connection | Compression lug | Compression lug |\n| Impulse withstand voltage (kV) 35 35 |  |  |\n| AC withstand voltage (kV) | 24 | 24 |\n| DC withstand voltage (kV) 40 40 |  |  |\n| Short circuit current (kA/1s) | - | - |\n| Description EPPA-055-0-1 EPPA-055-x*-1 |  |  |"
+        }
+      ],
+      "images": [
+        {
+          "page_number": 7,
+          "image_number": 1,
+          "xref": 33,
+          "width": 1275,
+          "height": 779,
+          "local_path": "data/extracted_images/link-box/page_7_img_1.png",
+          "storage_path": "raychem/link-box/page_7_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/link-box/page_7_img_1.png",
+          "caption": null,
+          "context_text": "Raychem Link Boxes Product Specifications SELECTION TABLES A B Bonding lead (type) Single-core Single-core Bonding lead (mm2) 95 - 300 95 - 300 Protection class IP 56 IP 56 Application Non buried Non buried Sheath voltage limiters N/A 1 kV-6 kV Box size (LxHxW) (mm) 300x165x190 300x165x190 Material Stainless steel Stainless steel Total weight Approx. 22lbs Approx. 22 lbs Connection links Removable copper Removable copper 120 mm2 120 mm2 Cable connection Compression lug Compression lug Impulse withstand voltage (kV) 35 35 AC withstand voltage (kV) 24 24 DC withstand voltage (kV) 40 40 Short circuit current (kA/1s) - - Description EPPA-055-0-1 EPPA-055-x*-1 * indicates voltage class of the sheath voltage limiter (SVL) ENERGY /// RAYCHEM LINK BOXES"
+        },
+        {
+          "page_number": 7,
+          "image_number": 2,
+          "xref": 35,
+          "width": 855,
+          "height": 779,
+          "local_path": "data/extracted_images/link-box/page_7_img_2.png",
+          "storage_path": "raychem/link-box/page_7_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/link-box/page_7_img_2.png",
+          "caption": null,
+          "context_text": "Raychem Link Boxes Product Specifications SELECTION TABLES A B Bonding lead (type) Single-core Single-core Bonding lead (mm2) 95 - 300 95 - 300 Protection class IP 56 IP 56 Application Non buried Non buried Sheath voltage limiters N/A 1 kV-6 kV Box size (LxHxW) (mm) 300x165x190 300x165x190 Material Stainless steel Stainless steel Total weight Approx. 22lbs Approx. 22 lbs Connection links Removable copper Removable copper 120 mm2 120 mm2 Cable connection Compression lug Compression lug Impulse withstand voltage (kV) 35 35 AC withstand voltage (kV) 24 24 DC withstand voltage (kV) 40 40 Short circuit current (kA/1s) - - Description EPPA-055-0-1 EPPA-055-x*-1 * indicates voltage class of the sheath voltage limiter (SVL) ENERGY /// RAYCHEM LINK BOXES"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "FOR MORE INFORMATION:\nTE Technical Support Centers\nUSA: +1 (800) 327-6996\nCanada: +1 (905) 475-6222\nte.com/energy Mexico +52 (0) 55-1106-0800\n©2012, 2015 - 2016 TE Connectivity Ltd. family of companies. All Rights Reserved. EPP-2528-DDS-12/15-EN-AMS-LINKBO-RAYCHEM E271 Latin/S. America: +54 (0) 11-4733-2200\nRaychem, TE, TE Connectivity and TE connectivity (logo) are trademarks. Other logos, product and/or company names might be trademarks of their UK: +44 (0) 800-267666\nrespective owners. While TE has made every reasonable effort to ensure the accuracy of the information in this brochure, TE does not guarantee\nthat it is error-free, nor does TE make any other representation, warranty or guarantee that the information is accurate, correct, reliable or current. France: +33 (0) 1-3420-8686\nTE reserves the right to make any adjustments to the information contained herein at any time without notice. TE expressly disclaims all implied\nwarranties regarding the information contained herein, including, but not limited to, any implied warranties of merchantability or fitness for a Netherlands: +31 (0) 73-6246-999\nparticular purpose. The dimensions in this catalog are for reference purposes only and are subject to change without notice. Specifications are\nsubject to change without notice. Consult TE for the latest dimensions and design specifications. China: +86 (0) 400-820-6015\nENERGY /// RAYCHEM LINK BOXES",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 8,
+          "image_number": 1,
+          "xref": 55,
+          "width": 10,
+          "height": 1305,
+          "local_path": "data/extracted_images/link-box/page_8_img_1.png",
+          "storage_path": "raychem/link-box/page_8_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/link-box/page_8_img_1.png",
+          "caption": null,
+          "context_text": "FOR MORE INFORMATION: TE Technical Support Centers USA: +1 (800) 327-6996 Canada: +1 (905) 475-6222 te.com/energy Mexico +52 (0) 55-1106-0800 ©2012, 2015 - 2016 TE Connectivity Ltd. family of companies. All Rights Reserved. EPP-2528-DDS-12/15-EN-AMS-LINKBO-RAYCHEM E271 Latin/S. America: +54 (0) 11-4733-2200 Raychem, TE, TE Connectivity and TE connectivity (logo) are trademarks. Other logos, product and/or company names might be trademarks of their UK: +44 (0) 800-267666 respective owners. While TE has made every reasonable effort to ensure the accuracy of the information in this brochure, TE does not guarantee that it is error-free, nor does TE make any other representation, warranty or guarantee that the information is accurate, correct, reliable or current. France: +33 (0) 1-3420-8686 TE reserves the right to make any adjustments to the information contained herein at any time without notice. TE expressly disclaims all implied warranties regarding the information contained herein, including, but not limited to, any implied warranties of merchantability or fitness for a Netherlands: +31 (0) 73-6246-999 particular purpose. The dimensions in this catalog are for reference purposes only and are subject to change without notice. Specifications are subject to change without notice. Consult TE for the latest dimensions and design specifications. China: +86 (0) 400-820-6015 ENERGY /// RAYCHEM LINK BOXES"
+        },
+        {
+          "page_number": 8,
+          "image_number": 2,
+          "xref": 56,
+          "width": 284,
+          "height": 276,
+          "local_path": "data/extracted_images/link-box/page_8_img_2.png",
+          "storage_path": "raychem/link-box/page_8_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/link-box/page_8_img_2.png",
+          "caption": null,
+          "context_text": "FOR MORE INFORMATION: TE Technical Support Centers USA: +1 (800) 327-6996 Canada: +1 (905) 475-6222 te.com/energy Mexico +52 (0) 55-1106-0800 ©2012, 2015 - 2016 TE Connectivity Ltd. family of companies. All Rights Reserved. EPP-2528-DDS-12/15-EN-AMS-LINKBO-RAYCHEM E271 Latin/S. America: +54 (0) 11-4733-2200 Raychem, TE, TE Connectivity and TE connectivity (logo) are trademarks. Other logos, product and/or company names might be trademarks of their UK: +44 (0) 800-267666 respective owners. While TE has made every reasonable effort to ensure the accuracy of the information in this brochure, TE does not guarantee that it is error-free, nor does TE make any other representation, warranty or guarantee that the information is accurate, correct, reliable or current. France: +33 (0) 1-3420-8686 TE reserves the right to make any adjustments to the information contained herein at any time without notice. TE expressly disclaims all implied warranties regarding the information contained herein, including, but not limited to, any implied warranties of merchantability or fitness for a Netherlands: +31 (0) 73-6246-999 particular purpose. The dimensions in this catalog are for reference purposes only and are subject to change without notice. Specifications are subject to change without notice. Consult TE for the latest dimensions and design specifications. China: +86 (0) 400-820-6015 ENERGY /// RAYCHEM LINK BOXES"
+        },
+        {
+          "page_number": 8,
+          "image_number": 3,
+          "xref": 57,
+          "width": 381,
+          "height": 198,
+          "local_path": "data/extracted_images/link-box/page_8_img_3.png",
+          "storage_path": "raychem/link-box/page_8_img_3.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/link-box/page_8_img_3.png",
+          "caption": null,
+          "context_text": "FOR MORE INFORMATION: TE Technical Support Centers USA: +1 (800) 327-6996 Canada: +1 (905) 475-6222 te.com/energy Mexico +52 (0) 55-1106-0800 ©2012, 2015 - 2016 TE Connectivity Ltd. family of companies. All Rights Reserved. EPP-2528-DDS-12/15-EN-AMS-LINKBO-RAYCHEM E271 Latin/S. America: +54 (0) 11-4733-2200 Raychem, TE, TE Connectivity and TE connectivity (logo) are trademarks. Other logos, product and/or company names might be trademarks of their UK: +44 (0) 800-267666 respective owners. While TE has made every reasonable effort to ensure the accuracy of the information in this brochure, TE does not guarantee that it is error-free, nor does TE make any other representation, warranty or guarantee that the information is accurate, correct, reliable or current. France: +33 (0) 1-3420-8686 TE reserves the right to make any adjustments to the information contained herein at any time without notice. TE expressly disclaims all implied warranties regarding the information contained herein, including, but not limited to, any implied warranties of merchantability or fitness for a Netherlands: +31 (0) 73-6246-999 particular purpose. The dimensions in this catalog are for reference purposes only and are subject to change without notice. Specifications are subject to change without notice. Consult TE for the latest dimensions and design specifications. China: +86 (0) 400-820-6015 ENERGY /// RAYCHEM LINK BOXES"
+        },
+        {
+          "page_number": 8,
+          "image_number": 4,
+          "xref": 58,
+          "width": 574,
+          "height": 322,
+          "local_path": "data/extracted_images/link-box/page_8_img_4.png",
+          "storage_path": "raychem/link-box/page_8_img_4.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/link-box/page_8_img_4.png",
+          "caption": null,
+          "context_text": "FOR MORE INFORMATION: TE Technical Support Centers USA: +1 (800) 327-6996 Canada: +1 (905) 475-6222 te.com/energy Mexico +52 (0) 55-1106-0800 ©2012, 2015 - 2016 TE Connectivity Ltd. family of companies. All Rights Reserved. EPP-2528-DDS-12/15-EN-AMS-LINKBO-RAYCHEM E271 Latin/S. America: +54 (0) 11-4733-2200 Raychem, TE, TE Connectivity and TE connectivity (logo) are trademarks. Other logos, product and/or company names might be trademarks of their UK: +44 (0) 800-267666 respective owners. While TE has made every reasonable effort to ensure the accuracy of the information in this brochure, TE does not guarantee that it is error-free, nor does TE make any other representation, warranty or guarantee that the information is accurate, correct, reliable or current. France: +33 (0) 1-3420-8686 TE reserves the right to make any adjustments to the information contained herein at any time without notice. TE expressly disclaims all implied warranties regarding the information contained herein, including, but not limited to, any implied warranties of merchantability or fitness for a Netherlands: +31 (0) 73-6246-999 particular purpose. The dimensions in this catalog are for reference purposes only and are subject to change without notice. Specifications are subject to change without notice. Consult TE for the latest dimensions and design specifications. China: +86 (0) 400-820-6015 ENERGY /// RAYCHEM LINK BOXES"
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-07-08T09:25:25.795672+00:00"
+}

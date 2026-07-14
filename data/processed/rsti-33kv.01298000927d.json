@@ -1,0 +1,137 @@
+{
+  "source_file": "RSTI 33kV.pdf",
+  "source_file_stem": "RSTI 33kV",
+  "source_path": "knowledge/Raychem_Catalogues/RSTI 33kV.pdf",
+  "file_hash": "01298000927da82f9241a27cc8efb3eb74f8f38d4a7fae78bcd091294d4fad04",
+  "metadata": {
+    "vendor": "raychem",
+    "brand": "unknown_brand",
+    "product": "unknown_product",
+    "document_type": "product_kb_pdf"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 1,
+          "image_number": 1,
+          "xref": 4,
+          "width": 2224,
+          "height": 1305,
+          "local_path": "data/extracted_images/rsti-33kv/page_1_img_1.png",
+          "storage_path": "raychem/rsti-33kv/page_1_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rsti-33kv/page_1_img_1.png",
+          "caption": null,
+          "context_text": ""
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 2,
+          "image_number": 1,
+          "xref": 13,
+          "width": 2154,
+          "height": 256,
+          "local_path": "data/extracted_images/rsti-33kv/page_2_img_1.png",
+          "storage_path": "raychem/rsti-33kv/page_2_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rsti-33kv/page_2_img_1.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 2,
+          "image_number": 2,
+          "xref": 14,
+          "width": 1087,
+          "height": 1775,
+          "local_path": "data/extracted_images/rsti-33kv/page_2_img_2.png",
+          "storage_path": "raychem/rsti-33kv/page_2_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rsti-33kv/page_2_img_2.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 2,
+          "image_number": 3,
+          "xref": 23,
+          "width": 279,
+          "height": 328,
+          "local_path": "data/extracted_images/rsti-33kv/page_2_img_3.png",
+          "storage_path": "raychem/rsti-33kv/page_2_img_3.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rsti-33kv/page_2_img_3.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 2,
+          "image_number": 4,
+          "xref": 24,
+          "width": 387,
+          "height": 201,
+          "local_path": "data/extracted_images/rsti-33kv/page_2_img_4.png",
+          "storage_path": "raychem/rsti-33kv/page_2_img_4.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rsti-33kv/page_2_img_4.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 2,
+          "image_number": 5,
+          "xref": 25,
+          "width": 980,
+          "height": 43,
+          "local_path": "data/extracted_images/rsti-33kv/page_2_img_5.png",
+          "storage_path": "raychem/rsti-33kv/page_2_img_5.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rsti-33kv/page_2_img_5.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 2,
+          "image_number": 6,
+          "xref": 26,
+          "width": 582,
+          "height": 370,
+          "local_path": "data/extracted_images/rsti-33kv/page_2_img_6.png",
+          "storage_path": "raychem/rsti-33kv/page_2_img_6.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rsti-33kv/page_2_img_6.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 2,
+          "image_number": 7,
+          "xref": 27,
+          "width": 1062,
+          "height": 128,
+          "local_path": "data/extracted_images/rsti-33kv/page_2_img_7.png",
+          "storage_path": "raychem/rsti-33kv/page_2_img_7.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rsti-33kv/page_2_img_7.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 2,
+          "image_number": 8,
+          "xref": 28,
+          "width": 256,
+          "height": 361,
+          "local_path": "data/extracted_images/rsti-33kv/page_2_img_8.png",
+          "storage_path": "raychem/rsti-33kv/page_2_img_8.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rsti-33kv/page_2_img_8.png",
+          "caption": null,
+          "context_text": ""
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-07-08T09:28:01.748795+00:00"
+}

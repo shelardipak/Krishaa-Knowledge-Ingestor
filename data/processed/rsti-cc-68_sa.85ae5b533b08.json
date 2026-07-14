@@ -1,0 +1,230 @@
+{
+  "source_file": "RSTI-CC-68_SA.pdf",
+  "source_file_stem": "RSTI-CC-68_SA",
+  "source_path": "knowledge/Raychem_Catalogues/RSTI-CC-68_SA.pdf",
+  "file_hash": "85ae5b533b089f15566f9fa75684cb61547cb887bea92b72d2ba4a0ec131a9e2",
+  "metadata": {
+    "vendor": "raychem",
+    "brand": "unknown_brand",
+    "product": "unknown_product",
+    "document_type": "product_kb_pdf"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Raychem Screened, Separable Surge Arrester\nRSTI-SA-10 up to 41 kV",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 1,
+          "image_number": 1,
+          "xref": 15,
+          "width": 458,
+          "height": 50,
+          "local_path": "data/extracted_images/rsti-cc-68_sa/page_1_img_1.png",
+          "storage_path": "raychem/rsti-cc-68_sa/page_1_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rsti-cc-68_sa/page_1_img_1.png",
+          "caption": null,
+          "context_text": "Raychem Screened, Separable Surge Arrester RSTI-SA-10 up to 41 kV"
+        },
+        {
+          "page_number": 1,
+          "image_number": 2,
+          "xref": 14,
+          "width": 459,
+          "height": 106,
+          "local_path": "data/extracted_images/rsti-cc-68_sa/page_1_img_2.png",
+          "storage_path": "raychem/rsti-cc-68_sa/page_1_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rsti-cc-68_sa/page_1_img_2.png",
+          "caption": null,
+          "context_text": "Raychem Screened, Separable Surge Arrester RSTI-SA-10 up to 41 kV"
+        },
+        {
+          "page_number": 1,
+          "image_number": 3,
+          "xref": 2,
+          "width": 1241,
+          "height": 881,
+          "local_path": "data/extracted_images/rsti-cc-68_sa/page_1_img_3.png",
+          "storage_path": "raychem/rsti-cc-68_sa/page_1_img_3.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rsti-cc-68_sa/page_1_img_3.png",
+          "caption": null,
+          "context_text": "Raychem Screened, Separable Surge Arrester RSTI-SA-10 up to 41 kV"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Raychem Screened, Separable Surge Arrester RSTI-SA-10 up to 41 kV\nProduct Features: The screened gapless surge arrester is The active part is a metal oxide\n•Tested in accordance with a “T“-shaped product. It is designed arrester which meets the requirements\nIEC60099-4 (May 2004) for direct connection onto outer cone of IEC-60099-4 for separable and\n•State of art - gapless design bushings in accordance to EN50180 or dead-front arresters.\n•Excellent protection margins EN50181 with interface type “C” or for\n•Low residual voltages parallel connection mating to the rear The combination of screened\n•Excellent short circuit performance entry of the base screened connector con nector and surge arrester exceeds\n•Excellent TOV performance system RSTI designed for system CENELEC HD 629.1 S2 requirements,\n•Maintenance free voltage up to 41 kV. which includes BS, VDE and other\ninternational specifications.\nThe insulation of the screened surge\narrester is made of a highly modified Easily accessible rear plug with\nsilicone rubber characterised by high capacitive test point.\ntracking resistance, elongation at\nbreak and non-flammability. Few accessories required for system\ntest and earth connection.\nA thin walled screen is permanently\nbonded onto the insulation and Complete kit including screened surge\nprotects the connection system arrester, threaded pin and ground lead\nApplications against unintentional contact. for three phases facilitates installation\nand storage.\nSingle connection Parallel connection\nMaterial requested for 3 phases: Material requested for 3 phases:\n1 x RSTI-68SAxx10 1 x RSTI-58xx or RSTI-68xx (Base connector kit)\n(Screened surge arrester kit for direct 1 x RSTI-CC-68SAxx10\nbushing connection) (Screened surge arrester kit with\ncoupling connection)\n190 295\n110 110 101\n25\n79\n98\nL L\n65\nDimensions in mm\n1 energy.te.com",
+      "tables": [
+        {
+          "page_number": 2,
+          "table_number": 1,
+          "rows": [
+            [
+              "",
+              "190",
+              ""
+            ],
+            [
+              "110",
+              "",
+              ""
+            ]
+          ],
+          "markdown": "| Column 1 | 190 | Column 3 |\n| --- | --- | --- |\n| 110 |  |  |"
+        },
+        {
+          "page_number": 2,
+          "table_number": 2,
+          "rows": [
+            [
+              "",
+              "",
+              "295"
+            ],
+            [
+              "",
+              "110 101",
+              ""
+            ]
+          ],
+          "markdown": "| Column 1 | Column 2 | 295 |\n| --- | --- | --- |\n|  | 110 101 |  |"
+        }
+      ],
+      "images": []
+    },
+    {
+      "page_number": 3,
+      "text": "TE Connectivity Raychem Screened, Separable Surge Arrester RSTI-SA-10 up to 41 kV\nDesign and construction\n6 1 Screened body\nA thin walled conductive outer screen\nis permanently bonded to the silicone\n7 rubber insulating material.\n8\n2 Inner screen\n9 A conductive inner layer, as a Faraday\ncage around the top end electrode\n3 prevents corona at rated voltage.\n5 3 Threaded lug\nPre-installed threaded lug, specially\ndesigned, facilitates the connection\nof the surge arrester to the base\n1\nconnector or bushing.\n2\n4 Surge arrester core\nGapless surge arrester core assembly\nconsisting of ZnO (Zinc Oxide)\nvaristors and a mechanical robust\n4 structure.\n5 Earthing eye and ground lead\nProvides a connection point for\nearthing the screen.\n6 Threaded pin\nA threaded pin together with a spring\nwasher and hex nut ensure a high\nperformance electrical and\nmechanical contact with the base\nconnector or bushing.\n1\n7 Rear plug with test point\nRemovable rear plug with capacitive\ntest point.\n8 Test point\nThe test point is used to determine\nwhether the circuit is energised;\nalternatively it can be used for\nphasing.\n9 Conductive end cap\nElectrical screen and protection of\nAccessories\nthe rear end of the separable surge\narrester.\nTest rod Earthing adapter\nRef. no.: RSTI-68TR; Length: 310 mm Ref. no.: RSTI-68EA20;\nRSTI-68TRL; Length: 460 mm Ball diameter: 20 mm\nRSTI-68TRA; Kit includes RSTI-68EA25;\n2 short and 1 long testrod Ball diameter: 25 mm\nNote: When test rod is in use, surge\narrester assembly must be removed.\nenergy.te.com 2",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 3,
+          "image_number": 1,
+          "xref": 29,
+          "width": 21,
+          "height": 21,
+          "local_path": "data/extracted_images/rsti-cc-68_sa/page_3_img_1.png",
+          "storage_path": "raychem/rsti-cc-68_sa/page_3_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rsti-cc-68_sa/page_3_img_1.png",
+          "caption": null,
+          "context_text": "TE Connectivity Raychem Screened, Separable Surge Arrester RSTI-SA-10 up to 41 kV Design and construction 6 1 Screened body A thin walled conductive outer screen is permanently bonded to the silicone 7 rubber insulating material. 8 2 Inner screen 9 A conductive inner layer, as a Faraday cage around the top end electrode 3 prevents corona at rated voltage. 5 3 Threaded lug Pre-installed threaded lug, specially designed, facilitates the connection of the surge arrester to the base 1 connector or bushing. 2 4 Surge arrester core Gapless surge arrester core assembly consisting of ZnO (Zinc Oxide) varistors and a mechanical robust 4 structure. 5 Earthing eye and ground lead Provides a connection point for earthing the screen. 6 Threaded pin A threaded pin together with a spring washer and hex nut ensure a high performance electrical and mechanical contact with the base connector or bushing. 1 7 Rear plug with test point Removable rear plug with capacitive test point. 8 Test point The test point is used to determine whether the circuit is energised; alternatively it can be used for phasing. 9 Conductive end cap Electrical screen and protection of Accessories the rear end of the separable surge arrester. Test rod Earthing adapter Ref. no.: RSTI-68TR; Length: 310 mm Ref. no.: RSTI-68EA20; RSTI-68TRL; Length: 460 mm Ball diameter: 20 mm RSTI-68TRA; Kit includes RSTI-68EA25; 2 short and 1 long testrod Ball diameter: 25 mm Note: When test rod is in use, surge arrester assembly must be removed. energy.te.com 2"
+        },
+        {
+          "page_number": 3,
+          "image_number": 2,
+          "xref": 25,
+          "width": 31,
+          "height": 17,
+          "local_path": "data/extracted_images/rsti-cc-68_sa/page_3_img_2.png",
+          "storage_path": "raychem/rsti-cc-68_sa/page_3_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rsti-cc-68_sa/page_3_img_2.png",
+          "caption": null,
+          "context_text": "TE Connectivity Raychem Screened, Separable Surge Arrester RSTI-SA-10 up to 41 kV Design and construction 6 1 Screened body A thin walled conductive outer screen is permanently bonded to the silicone 7 rubber insulating material. 8 2 Inner screen 9 A conductive inner layer, as a Faraday cage around the top end electrode 3 prevents corona at rated voltage. 5 3 Threaded lug Pre-installed threaded lug, specially designed, facilitates the connection of the surge arrester to the base 1 connector or bushing. 2 4 Surge arrester core Gapless surge arrester core assembly consisting of ZnO (Zinc Oxide) varistors and a mechanical robust 4 structure. 5 Earthing eye and ground lead Provides a connection point for earthing the screen. 6 Threaded pin A threaded pin together with a spring washer and hex nut ensure a high performance electrical and mechanical contact with the base connector or bushing. 1 7 Rear plug with test point Removable rear plug with capacitive test point. 8 Test point The test point is used to determine whether the circuit is energised; alternatively it can be used for phasing. 9 Conductive end cap Electrical screen and protection of Accessories the rear end of the separable surge arrester. Test rod Earthing adapter Ref. no.: RSTI-68TR; Length: 310 mm Ref. no.: RSTI-68EA20; RSTI-68TRL; Length: 460 mm Ball diameter: 20 mm RSTI-68TRA; Kit includes RSTI-68EA25; 2 short and 1 long testrod Ball diameter: 25 mm Note: When test rod is in use, surge arrester assembly must be removed. energy.te.com 2"
+        },
+        {
+          "page_number": 3,
+          "image_number": 3,
+          "xref": 28,
+          "width": 32,
+          "height": 27,
+          "local_path": "data/extracted_images/rsti-cc-68_sa/page_3_img_3.png",
+          "storage_path": "raychem/rsti-cc-68_sa/page_3_img_3.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rsti-cc-68_sa/page_3_img_3.png",
+          "caption": null,
+          "context_text": "TE Connectivity Raychem Screened, Separable Surge Arrester RSTI-SA-10 up to 41 kV Design and construction 6 1 Screened body A thin walled conductive outer screen is permanently bonded to the silicone 7 rubber insulating material. 8 2 Inner screen 9 A conductive inner layer, as a Faraday cage around the top end electrode 3 prevents corona at rated voltage. 5 3 Threaded lug Pre-installed threaded lug, specially designed, facilitates the connection of the surge arrester to the base 1 connector or bushing. 2 4 Surge arrester core Gapless surge arrester core assembly consisting of ZnO (Zinc Oxide) varistors and a mechanical robust 4 structure. 5 Earthing eye and ground lead Provides a connection point for earthing the screen. 6 Threaded pin A threaded pin together with a spring washer and hex nut ensure a high performance electrical and mechanical contact with the base connector or bushing. 1 7 Rear plug with test point Removable rear plug with capacitive test point. 8 Test point The test point is used to determine whether the circuit is energised; alternatively it can be used for phasing. 9 Conductive end cap Electrical screen and protection of Accessories the rear end of the separable surge arrester. Test rod Earthing adapter Ref. no.: RSTI-68TR; Length: 310 mm Ref. no.: RSTI-68EA20; RSTI-68TRL; Length: 460 mm Ball diameter: 20 mm RSTI-68TRA; Kit includes RSTI-68EA25; 2 short and 1 long testrod Ball diameter: 25 mm Note: When test rod is in use, surge arrester assembly must be removed. energy.te.com 2"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "1.60\nTemperature of samples (pre-heated):\n60° C according to IEC 60099-4,\n1.55\nEd 2.0 2004. TOV Curve applies to an\narrester which has a pre-stress applied\n1.50\nprior to TOV verification. This pre-stress\nis equivalent to one high current\n1.45\nimpulse of 100kA, 4/10 as per the\nswitching surge operating duty test.\n1.40\nUw = TOV withstand voltage\n1.35\nUc = continuous operating voltage\n1.30\n1 10 100 1000 10000\nTime (s)\nOrdering information\nVoltage Class (kV) 12.0 18.0 24.0 30.0 33.0 36.0 39.0 41.0\nReference Number RSTI- RSTI- RSTI- RSTI- RSTI- RSTI- RSTI- RSTI-\nSingle connection 68SA1210 68SA1810 68SA2410 68SA3010 68SA3310 68SA3610 68SA3910 68SA4110\nReference Number RSTI-CC- RSTI-CC- RSTI-CC- RSTI-CC- RSTI-CC- RSTI-CC- RSTI-CC- RSTI-CC-\nParallel connection 68SA1210 68SA1810 68SA2410 68SA3010 68SA3310 68SA3610 68SA3910 68SA4110\nDimension and Weight\nLength L* (mm) 285.0 400.0 400.0 520.0 520.0 520.0 530.0 530.0\nWeight (kg/pc)\n(68SA) 3.5 3.7 3.9 4.1 4.2 4.2 4.3 4.4\n(-CC-68SA) 4.4 4.6 4.8 5.0 5.1 5.1 5.2 5.3\n* see page 2\ncU\n/\nwU\nRated Discharge Current I 10 kA\nN\nOperating duty\nHigh current Impulse 4/10 µs 100 kA\nShort Circuit Current I 20 kA\nS\nLong duration current impulse (2ms) 212 A\nResidual Voltages (kV)\nContinuous operating voltage U 12.0 18.0 24.0 30.0 33.0 36.0 39.0 41.0\nC\nRated voltage U 15.0 22.5 30.0 37.5 41.3 45.0 48.8 51.3\nR\nLightning Current Impulse 8/20 µs\n5 kA 39.1 58.6 78.2 97.7 107.5 117.3 127.1 133.6\n10 kA 41.5 62.2 83.0 103.7 114.0 124.5 134.9 141.8\n20 kA 45.7 68.5 91.4 114.2 125.6 137.1 148.5 156.1\nSteep lightning current impulse 1/20 µs\n10 kA 43.9 65.8 87.8 109.8 120.8 131.7 142.7 150.0\nSwitching impulse 30/60 µs\n125 A 31.5 47.3 63.1 78.9 86.8 94.7 102.5 107.8\n500 A 32.4 48.7 64.9 81.1 89.2 97.4 105.5 110.9\nTOV with 100kA single shot high current prior energy\nTOV Curve\nWhile TE Connectivity (TE) has made every reasonable effort to ensure the accuracy of the information in this catalog, TE does not guarantee that it is error-free, nor does TE make any other\nrepresentation, warranty or guarantee that the information is accurate, correct, reliable or current. TE reserves the right to make any adjustments to the information contained herein at any\ntime without notice. TE expressly disclaims all implied warranties regarding the information contained herein, including, but not limited to, any implied warranties of merchantability or fitness\nfor a particular purpose. The dimensions in this catalog are for reference purposes only and are subject to change without notice. Specifications are subject to change without notice. Consult\nTE for the latest dimensions and design specifications. Raychem, TE Connectivity and TE Connectivity (logo) are trademarks.\nTE Energy – innovative and economical solutions for the electrical power industry: cable accessories, connectors & fittings,\ninsulators & insulation, surge arresters, switching equipment, street lighting, power measurement and control.\nTyco Electronics Raychem GmbH\na TE Connectivity Ltd. Company\nTE Energy\nFinsinger Feld 1\n85521 Ottobrunn/Munich, Germany\nPhone: +49-89-6089-0\nFax: +49-89-6096345\nenergy.te.com\n31/4\n5681\nPPE\nHbmG\nmehcyaR\nscinortcelE\nocyT\n3102\n©\nTE Connectivity Raychem Screened, Separable Surge Arrester RSTI-SA-10 up to 41 kV\nTechnical data for single and parallel connections",
+      "tables": [
+        {
+          "page_number": 4,
+          "table_number": 1,
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "T",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "ve",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "T",
+              "O",
+              "V",
+              "C",
+              "",
+              "u",
+              "r",
+              "ve",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "markdown": "| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 | Column 9 | Column 10 | T | Column 12 | Column 13 | Column 14 | Column 15 | Column 16 | Column 17 | Column 18 | ve | Column 20 | Column 21 | Column 22 | Column 23 | Column 24 | Column 25 | Column 26 | Column 27 | Column 28 | Column 29 | Column 30 | Column 31 | Column 32 | Column 33 | Column 34 | Column 35 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |  |  | T | O | V | C |  | u | r | ve |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "extracted_at": "2026-07-08T09:28:16.519699+00:00"
+}

@@ -1,0 +1,139 @@
+{
+  "source_file": "1.1kV RLVJ 1KV.pdf",
+  "source_file_stem": "1.1kV RLVJ 1KV",
+  "source_path": "knowledge/Raychem_Catalogues/1.1kV RLVJ 1KV.pdf",
+  "file_hash": "b6c644824106b7a773fca5c3a2ffc59c86159d227e642bc2e838ec98181c3671",
+  "metadata": {
+    "vendor": "raychem",
+    "brand": "unknown_brand",
+    "product": "unknown_product",
+    "document_type": "product_kb_pdf"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 1,
+          "image_number": 1,
+          "xref": 36,
+          "width": 2234,
+          "height": 2742,
+          "local_path": "data/extracted_images/1.1kv-rlvj-1kv/page_1_img_1.png",
+          "storage_path": "raychem/1.1kv-rlvj-1kv/page_1_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/1.1kv-rlvj-1kv/page_1_img_1.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 1,
+          "image_number": 2,
+          "xref": 37,
+          "width": 2234,
+          "height": 453,
+          "local_path": "data/extracted_images/1.1kv-rlvj-1kv/page_1_img_2.png",
+          "storage_path": "raychem/1.1kv-rlvj-1kv/page_1_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/1.1kv-rlvj-1kv/page_1_img_2.png",
+          "caption": null,
+          "context_text": ""
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 2,
+          "image_number": 1,
+          "xref": 3,
+          "width": 2250,
+          "height": 2778,
+          "local_path": "data/extracted_images/1.1kv-rlvj-1kv/page_2_img_1.png",
+          "storage_path": "raychem/1.1kv-rlvj-1kv/page_2_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/1.1kv-rlvj-1kv/page_2_img_1.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 2,
+          "image_number": 2,
+          "xref": 4,
+          "width": 2250,
+          "height": 462,
+          "local_path": "data/extracted_images/1.1kv-rlvj-1kv/page_2_img_2.png",
+          "storage_path": "raychem/1.1kv-rlvj-1kv/page_2_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/1.1kv-rlvj-1kv/page_2_img_2.png",
+          "caption": null,
+          "context_text": ""
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 3,
+          "image_number": 1,
+          "xref": 8,
+          "width": 2235,
+          "height": 2766,
+          "local_path": "data/extracted_images/1.1kv-rlvj-1kv/page_3_img_1.png",
+          "storage_path": "raychem/1.1kv-rlvj-1kv/page_3_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/1.1kv-rlvj-1kv/page_3_img_1.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 3,
+          "image_number": 2,
+          "xref": 9,
+          "width": 2235,
+          "height": 457,
+          "local_path": "data/extracted_images/1.1kv-rlvj-1kv/page_3_img_2.png",
+          "storage_path": "raychem/1.1kv-rlvj-1kv/page_3_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/1.1kv-rlvj-1kv/page_3_img_2.png",
+          "caption": null,
+          "context_text": ""
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 4,
+          "image_number": 1,
+          "xref": 13,
+          "width": 2247,
+          "height": 2742,
+          "local_path": "data/extracted_images/1.1kv-rlvj-1kv/page_4_img_1.png",
+          "storage_path": "raychem/1.1kv-rlvj-1kv/page_4_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/1.1kv-rlvj-1kv/page_4_img_1.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 4,
+          "image_number": 2,
+          "xref": 14,
+          "width": 2247,
+          "height": 451,
+          "local_path": "data/extracted_images/1.1kv-rlvj-1kv/page_4_img_2.png",
+          "storage_path": "raychem/1.1kv-rlvj-1kv/page_4_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/1.1kv-rlvj-1kv/page_4_img_2.png",
+          "caption": null,
+          "context_text": ""
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-07-08T09:23:31.542449+00:00"
+}

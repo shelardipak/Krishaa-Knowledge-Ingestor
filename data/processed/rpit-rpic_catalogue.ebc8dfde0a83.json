@@ -1,0 +1,197 @@
+{
+  "source_file": "RPIT-RPIC_CATALOGUE.pdf",
+  "source_file_stem": "RPIT-RPIC_CATALOGUE",
+  "source_path": "knowledge/Raychem_Catalogues/RPIT-RPIC_CATALOGUE.pdf",
+  "file_hash": "ebc8dfde0a8355ac13bc71f87542329bd2b087949888d77a1e9c0e89a2640738",
+  "metadata": {
+    "vendor": "raychem",
+    "brand": "unknown_brand",
+    "product": "unknown_product",
+    "document_type": "product_kb_pdf"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "EPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 1\nEnergy Division\nRPIT\nRaychem plug in termination system\nup to 42 kV for gas insulated switchgear",
+      "tables": [
+        {
+          "page_number": 1,
+          "table_number": 1,
+          "rows": [
+            [
+              "EPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 1"
+            ]
+          ],
+          "markdown": "| EPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 1 |\n| --- |\n|  |"
+        }
+      ],
+      "images": [
+        {
+          "page_number": 1,
+          "image_number": 1,
+          "xref": 2165,
+          "width": 1048,
+          "height": 896,
+          "local_path": "data/extracted_images/rpit-rpic_catalogue/page_1_img_1.png",
+          "storage_path": "raychem/rpit-rpic_catalogue/page_1_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rpit-rpic_catalogue/page_1_img_1.png",
+          "caption": null,
+          "context_text": "EPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 1 Energy Division RPIT Raychem plug in termination system up to 42 kV for gas insulated switchgear"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "EPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 2\nRPIT Raychem plug in termination system up to 42 kV\nfor gas insulated switchgear\nNominal current up to 1250 A\nFeatures Bushing\n• Separable inline connection for high\ncurrent, gas insulated switchgears\nup to 42 kV\nConductor\n• Termination mates interfaces in\naccordance to EN50180 and EN50181\nfor inner cone connections\n• The contact parts are designed for\nstranded circular aluminium or\ncopper conductors in accordance to Epoxy resin\nIEC-60228\nHexagon socket\nhead cap screws\nTechnical Information\nThe increasing popularity of gas\ninsulated switchgear called for the\ndevelopment of appropriate connec- Termination\nContact ring\ntion systems to standardised bushings\nin accordance to EN50181.\nWedge\nTyco Electronics Energy Division has\ndeveloped two systems, one is related Stopper ring\nto the outer cone and the other one to\nthe inner cone system. Later is used in Stress relief cone\npower switch gear and power trans-\nformers.\nTyco Electronics Energy Division has\nseveral decades of experience in\nthe field of hermetically insulated\ntermination systems for medium volt-\nage applications. Thus the bushings\ndesigned for gas insulated switchgear Hexagon socket\nmeet the standard EN50181 for connec- head cap screws\ntion type size 2 (800 A) and size\nProtection cover\n3 (1250 A) at operating voltage 12 kV\nup to 36 (42) kV.\nThe basic construction of the mating\ntermination follows well known design\nprinciples and incorporates a lamellate\nWater proof seal\ncontact system which ensures reliable\ncurrent transmission via a cone clamp\nto the conductor. The interface\nbetween silicone body of the termina-\ntion and the bushing is kept perma-\nnently sealed via the pressure of a\nspring between the insulator and the\nflange of the termination cover.\nThe termination cover is sealed at the\nflange area with well known sealing\nmethods and at the cable side with\nheat-shrinkable tubing against ingress\nof moisture.",
+      "tables": [],
+      "images": []
+    },
+    {
+      "page_number": 3,
+      "text": "EPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 3\nRPIT Technical data and ordering information\nTesting methodes according to CENELEC HD629.1 S2\nProduct size 2 2 3\nCross section (mm2) 300 185 630\nDiameter over insulation (mm) max. 36.6 max. 36.6 max. 50.0\nTesting values for rated voltage Results\nU / U 12.7 / 22 19 / 33 20.8 / 36\n0\nU 24 36 42\nm\nDC withstand voltage 15 min (kV) 76 114 125 no breakdown or flashover\nAC withstand voltage 5 min (kV) 57 85.5 93.5 no breakdown or flashover\nPD at ambient temperature (kV) < 2 pC < 2 pC < 2 pC max. 10 pC at 2 U\n0\nImpulse voltage at elevated 10 impulses of each\ntemperature (kV) 150 200 200 polarity; No breakdown\nHeating cycle voltage in air (kV) 32 48 52 63 cycles at 2.5 U ; no breakdown\n0\nHeating cycle voltage in water (kV) 32 48 52 63 cycles at 2.5 U ; no breakdown\n0\nThermal short circuit (conductor) (kA) 31.5 / 3 sec 31.5 / 1 sec 50 / 5 sec 2 short circuits to raise\nconductor to 250°C; no breakdown\nDynamic short circuit (kA) 125 125 125 1 short circuit at I ; no breakdown\nd\nDisconnection / Connection 5 x pass 5 x pass 5 x pass 5 complete operations; no\nvisible damage to contact\nPartial discharge at elevated < 2 pC < 2 pC < 2 pC max. 10 pC at 2 U\n0\nand ambient temperature (kV)\nImpulse voltage at ambient 150 200 200 10 impulses of each polarity;\ntemperature (kV) no breakdown\nAC withstand voltage 15 min (kV) 32 48 52 no breakdown or flashover\nCable terminations\nType Size Nominal System Cross Dia over Dia over\ncurrent voltage section conductor insulation\n(A) (kV) (mm2) (mm) (mm)\nRPIT-321x 2 800 12 95 - 300 11.0 - 21.6 19.3 - 30.4\nRPIT-521x 2 800 24 50 - 300 7.7 - 21.6 20.2 - 34.6\nRPIT-621x 2 630 36 50 - 185 7.7 - 16.8 25.2 - 35.1\nRPIT-331x 3 1250 12 240 - 630 17.8 - 32.5 26.4 - 29.6\nRPIT-531x 3 1250 24 150 - 630 13.9 - 32.5 26.5 - 45.6\nRPIT-631x 3 1250 36 / 42 95 - 630 11.0 - 32.5 28.5 - 49.2\nNote: Product is available with and without test point\nBushing Parts\nSize Modification Reference number\nSize 2 (800A) without test point RPIS-2-IS\nSize 2 (800A) with test point RPIS-2-IS-VD\nSize 3 (1250A) without test point RPIS-3-IS\nSize 3 (1250A) with test point RPIS-3-IS-VD\nInsulating cap\nSize Reference number\nSize 2 RPIC-2\nSize 3 RPIC-3",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 3,
+          "image_number": 1,
+          "xref": 2104,
+          "width": 354,
+          "height": 300,
+          "local_path": "data/extracted_images/rpit-rpic_catalogue/page_3_img_1.png",
+          "storage_path": "raychem/rpit-rpic_catalogue/page_3_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rpit-rpic_catalogue/page_3_img_1.png",
+          "caption": null,
+          "context_text": "EPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 3 RPIT Technical data and ordering information Testing methodes according to CENELEC HD629.1 S2 Product size 2 2 3 Cross section (mm2) 300 185 630 Diameter over insulation (mm) max. 36.6 max. 36.6 max. 50.0 Testing values for rated voltage Results U / U 12.7 / 22 19 / 33 20.8 / 36 0 U 24 36 42 m DC withstand voltage 15 min (kV) 76 114 125 no breakdown or flashover AC withstand voltage 5 min (kV) 57 85.5 93.5 no breakdown or flashover PD at ambient temperature (kV) < 2 pC < 2 pC < 2 pC max. 10 pC at 2 U 0 Impulse voltage at elevated 10 impulses of each temperature (kV) 150 200 200 polarity; No breakdown Heating cycle voltage in air (kV) 32 48 52 63 cycles at 2.5 U ; no breakdown 0 Heating cycle voltage in water (kV) 32 48 52 63 cycles at 2.5 U ; no breakdown 0 Thermal short circuit (conductor) (kA) 31.5 / 3 sec 31.5 / 1 sec 50 / 5 sec 2 short circuits to raise conductor to 250°C; no breakdown Dynamic short circuit (kA) 125 125 125 1 short circuit at I ; no breakdown d Disconnection / Connection 5 x pass 5 x pass 5 x pass 5 complete operations; no visible damage to contact Partial discharge at elevated < 2 pC < 2 pC < 2 pC max. 10 pC at 2 U 0 and ambient temperature (kV) Impulse voltage at ambient 150 200 200 10 impulses of each polarity; temperature (kV) no breakdown AC withstand voltage 15 min (kV) 32 48 52 no breakdown or flashover Cable terminations Type Size Nominal System Cross Dia over Dia over current voltage section conductor insulation (A) (kV) (mm2) (mm) (mm) RPIT-321x 2 800 12 95 - 300 11.0 - 21.6 19.3 - 30.4 RPIT-521x 2 800 24 50 - 300 7.7 - 21.6 20.2 - 34.6 RPIT-621x 2 630 36 50 - 185 7.7 - 16.8 25.2 - 35.1 RPIT-331x 3 1250 12 240 - 630 17.8 - 32.5 26.4 - 29.6 RPIT-531x 3 1250 24 150 - 630 13.9 - 32.5 26.5 - 45.6 RPIT-631x 3 1250 36 / 42 95 - 630 11.0 - 32.5 28.5 - 49.2 Note: Product is available with and without test point Bushing Parts Size Modification Reference number Size 2 (800A) without test point RPIS-2-IS Size 2 (800A) with test point RPIS-2-IS-VD Size 3 (1250A) without test point RPIS-3-IS Size 3 (1250A) with test point RPIS-3-IS-VD Insulating cap Size Reference number Size 2 RPIC-2 Size 3 RPIC-3"
+        },
+        {
+          "page_number": 3,
+          "image_number": 2,
+          "xref": 2105,
+          "width": 149,
+          "height": 130,
+          "local_path": "data/extracted_images/rpit-rpic_catalogue/page_3_img_2.png",
+          "storage_path": "raychem/rpit-rpic_catalogue/page_3_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rpit-rpic_catalogue/page_3_img_2.png",
+          "caption": null,
+          "context_text": "EPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 3 RPIT Technical data and ordering information Testing methodes according to CENELEC HD629.1 S2 Product size 2 2 3 Cross section (mm2) 300 185 630 Diameter over insulation (mm) max. 36.6 max. 36.6 max. 50.0 Testing values for rated voltage Results U / U 12.7 / 22 19 / 33 20.8 / 36 0 U 24 36 42 m DC withstand voltage 15 min (kV) 76 114 125 no breakdown or flashover AC withstand voltage 5 min (kV) 57 85.5 93.5 no breakdown or flashover PD at ambient temperature (kV) < 2 pC < 2 pC < 2 pC max. 10 pC at 2 U 0 Impulse voltage at elevated 10 impulses of each temperature (kV) 150 200 200 polarity; No breakdown Heating cycle voltage in air (kV) 32 48 52 63 cycles at 2.5 U ; no breakdown 0 Heating cycle voltage in water (kV) 32 48 52 63 cycles at 2.5 U ; no breakdown 0 Thermal short circuit (conductor) (kA) 31.5 / 3 sec 31.5 / 1 sec 50 / 5 sec 2 short circuits to raise conductor to 250°C; no breakdown Dynamic short circuit (kA) 125 125 125 1 short circuit at I ; no breakdown d Disconnection / Connection 5 x pass 5 x pass 5 x pass 5 complete operations; no visible damage to contact Partial discharge at elevated < 2 pC < 2 pC < 2 pC max. 10 pC at 2 U 0 and ambient temperature (kV) Impulse voltage at ambient 150 200 200 10 impulses of each polarity; temperature (kV) no breakdown AC withstand voltage 15 min (kV) 32 48 52 no breakdown or flashover Cable terminations Type Size Nominal System Cross Dia over Dia over current voltage section conductor insulation (A) (kV) (mm2) (mm) (mm) RPIT-321x 2 800 12 95 - 300 11.0 - 21.6 19.3 - 30.4 RPIT-521x 2 800 24 50 - 300 7.7 - 21.6 20.2 - 34.6 RPIT-621x 2 630 36 50 - 185 7.7 - 16.8 25.2 - 35.1 RPIT-331x 3 1250 12 240 - 630 17.8 - 32.5 26.4 - 29.6 RPIT-531x 3 1250 24 150 - 630 13.9 - 32.5 26.5 - 45.6 RPIT-631x 3 1250 36 / 42 95 - 630 11.0 - 32.5 28.5 - 49.2 Note: Product is available with and without test point Bushing Parts Size Modification Reference number Size 2 (800A) without test point RPIS-2-IS Size 2 (800A) with test point RPIS-2-IS-VD Size 3 (1250A) without test point RPIS-3-IS Size 3 (1250A) with test point RPIS-3-IS-VD Insulating cap Size Reference number Size 2 RPIC-2 Size 3 RPIC-3"
+        },
+        {
+          "page_number": 3,
+          "image_number": 3,
+          "xref": 2106,
+          "width": 206,
+          "height": 151,
+          "local_path": "data/extracted_images/rpit-rpic_catalogue/page_3_img_3.png",
+          "storage_path": "raychem/rpit-rpic_catalogue/page_3_img_3.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rpit-rpic_catalogue/page_3_img_3.png",
+          "caption": null,
+          "context_text": "EPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 3 RPIT Technical data and ordering information Testing methodes according to CENELEC HD629.1 S2 Product size 2 2 3 Cross section (mm2) 300 185 630 Diameter over insulation (mm) max. 36.6 max. 36.6 max. 50.0 Testing values for rated voltage Results U / U 12.7 / 22 19 / 33 20.8 / 36 0 U 24 36 42 m DC withstand voltage 15 min (kV) 76 114 125 no breakdown or flashover AC withstand voltage 5 min (kV) 57 85.5 93.5 no breakdown or flashover PD at ambient temperature (kV) < 2 pC < 2 pC < 2 pC max. 10 pC at 2 U 0 Impulse voltage at elevated 10 impulses of each temperature (kV) 150 200 200 polarity; No breakdown Heating cycle voltage in air (kV) 32 48 52 63 cycles at 2.5 U ; no breakdown 0 Heating cycle voltage in water (kV) 32 48 52 63 cycles at 2.5 U ; no breakdown 0 Thermal short circuit (conductor) (kA) 31.5 / 3 sec 31.5 / 1 sec 50 / 5 sec 2 short circuits to raise conductor to 250°C; no breakdown Dynamic short circuit (kA) 125 125 125 1 short circuit at I ; no breakdown d Disconnection / Connection 5 x pass 5 x pass 5 x pass 5 complete operations; no visible damage to contact Partial discharge at elevated < 2 pC < 2 pC < 2 pC max. 10 pC at 2 U 0 and ambient temperature (kV) Impulse voltage at ambient 150 200 200 10 impulses of each polarity; temperature (kV) no breakdown AC withstand voltage 15 min (kV) 32 48 52 no breakdown or flashover Cable terminations Type Size Nominal System Cross Dia over Dia over current voltage section conductor insulation (A) (kV) (mm2) (mm) (mm) RPIT-321x 2 800 12 95 - 300 11.0 - 21.6 19.3 - 30.4 RPIT-521x 2 800 24 50 - 300 7.7 - 21.6 20.2 - 34.6 RPIT-621x 2 630 36 50 - 185 7.7 - 16.8 25.2 - 35.1 RPIT-331x 3 1250 12 240 - 630 17.8 - 32.5 26.4 - 29.6 RPIT-531x 3 1250 24 150 - 630 13.9 - 32.5 26.5 - 45.6 RPIT-631x 3 1250 36 / 42 95 - 630 11.0 - 32.5 28.5 - 49.2 Note: Product is available with and without test point Bushing Parts Size Modification Reference number Size 2 (800A) without test point RPIS-2-IS Size 2 (800A) with test point RPIS-2-IS-VD Size 3 (1250A) without test point RPIS-3-IS Size 3 (1250A) with test point RPIS-3-IS-VD Insulating cap Size Reference number Size 2 RPIC-2 Size 3 RPIC-3"
+        },
+        {
+          "page_number": 3,
+          "image_number": 4,
+          "xref": 2107,
+          "width": 174,
+          "height": 209,
+          "local_path": "data/extracted_images/rpit-rpic_catalogue/page_3_img_4.png",
+          "storage_path": "raychem/rpit-rpic_catalogue/page_3_img_4.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rpit-rpic_catalogue/page_3_img_4.png",
+          "caption": null,
+          "context_text": "EPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 3 RPIT Technical data and ordering information Testing methodes according to CENELEC HD629.1 S2 Product size 2 2 3 Cross section (mm2) 300 185 630 Diameter over insulation (mm) max. 36.6 max. 36.6 max. 50.0 Testing values for rated voltage Results U / U 12.7 / 22 19 / 33 20.8 / 36 0 U 24 36 42 m DC withstand voltage 15 min (kV) 76 114 125 no breakdown or flashover AC withstand voltage 5 min (kV) 57 85.5 93.5 no breakdown or flashover PD at ambient temperature (kV) < 2 pC < 2 pC < 2 pC max. 10 pC at 2 U 0 Impulse voltage at elevated 10 impulses of each temperature (kV) 150 200 200 polarity; No breakdown Heating cycle voltage in air (kV) 32 48 52 63 cycles at 2.5 U ; no breakdown 0 Heating cycle voltage in water (kV) 32 48 52 63 cycles at 2.5 U ; no breakdown 0 Thermal short circuit (conductor) (kA) 31.5 / 3 sec 31.5 / 1 sec 50 / 5 sec 2 short circuits to raise conductor to 250°C; no breakdown Dynamic short circuit (kA) 125 125 125 1 short circuit at I ; no breakdown d Disconnection / Connection 5 x pass 5 x pass 5 x pass 5 complete operations; no visible damage to contact Partial discharge at elevated < 2 pC < 2 pC < 2 pC max. 10 pC at 2 U 0 and ambient temperature (kV) Impulse voltage at ambient 150 200 200 10 impulses of each polarity; temperature (kV) no breakdown AC withstand voltage 15 min (kV) 32 48 52 no breakdown or flashover Cable terminations Type Size Nominal System Cross Dia over Dia over current voltage section conductor insulation (A) (kV) (mm2) (mm) (mm) RPIT-321x 2 800 12 95 - 300 11.0 - 21.6 19.3 - 30.4 RPIT-521x 2 800 24 50 - 300 7.7 - 21.6 20.2 - 34.6 RPIT-621x 2 630 36 50 - 185 7.7 - 16.8 25.2 - 35.1 RPIT-331x 3 1250 12 240 - 630 17.8 - 32.5 26.4 - 29.6 RPIT-531x 3 1250 24 150 - 630 13.9 - 32.5 26.5 - 45.6 RPIT-631x 3 1250 36 / 42 95 - 630 11.0 - 32.5 28.5 - 49.2 Note: Product is available with and without test point Bushing Parts Size Modification Reference number Size 2 (800A) without test point RPIS-2-IS Size 2 (800A) with test point RPIS-2-IS-VD Size 3 (1250A) without test point RPIS-3-IS Size 3 (1250A) with test point RPIS-3-IS-VD Insulating cap Size Reference number Size 2 RPIC-2 Size 3 RPIC-3"
+        },
+        {
+          "page_number": 3,
+          "image_number": 5,
+          "xref": 2108,
+          "width": 140,
+          "height": 159,
+          "local_path": "data/extracted_images/rpit-rpic_catalogue/page_3_img_5.png",
+          "storage_path": "raychem/rpit-rpic_catalogue/page_3_img_5.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rpit-rpic_catalogue/page_3_img_5.png",
+          "caption": null,
+          "context_text": "EPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 3 RPIT Technical data and ordering information Testing methodes according to CENELEC HD629.1 S2 Product size 2 2 3 Cross section (mm2) 300 185 630 Diameter over insulation (mm) max. 36.6 max. 36.6 max. 50.0 Testing values for rated voltage Results U / U 12.7 / 22 19 / 33 20.8 / 36 0 U 24 36 42 m DC withstand voltage 15 min (kV) 76 114 125 no breakdown or flashover AC withstand voltage 5 min (kV) 57 85.5 93.5 no breakdown or flashover PD at ambient temperature (kV) < 2 pC < 2 pC < 2 pC max. 10 pC at 2 U 0 Impulse voltage at elevated 10 impulses of each temperature (kV) 150 200 200 polarity; No breakdown Heating cycle voltage in air (kV) 32 48 52 63 cycles at 2.5 U ; no breakdown 0 Heating cycle voltage in water (kV) 32 48 52 63 cycles at 2.5 U ; no breakdown 0 Thermal short circuit (conductor) (kA) 31.5 / 3 sec 31.5 / 1 sec 50 / 5 sec 2 short circuits to raise conductor to 250°C; no breakdown Dynamic short circuit (kA) 125 125 125 1 short circuit at I ; no breakdown d Disconnection / Connection 5 x pass 5 x pass 5 x pass 5 complete operations; no visible damage to contact Partial discharge at elevated < 2 pC < 2 pC < 2 pC max. 10 pC at 2 U 0 and ambient temperature (kV) Impulse voltage at ambient 150 200 200 10 impulses of each polarity; temperature (kV) no breakdown AC withstand voltage 15 min (kV) 32 48 52 no breakdown or flashover Cable terminations Type Size Nominal System Cross Dia over Dia over current voltage section conductor insulation (A) (kV) (mm2) (mm) (mm) RPIT-321x 2 800 12 95 - 300 11.0 - 21.6 19.3 - 30.4 RPIT-521x 2 800 24 50 - 300 7.7 - 21.6 20.2 - 34.6 RPIT-621x 2 630 36 50 - 185 7.7 - 16.8 25.2 - 35.1 RPIT-331x 3 1250 12 240 - 630 17.8 - 32.5 26.4 - 29.6 RPIT-531x 3 1250 24 150 - 630 13.9 - 32.5 26.5 - 45.6 RPIT-631x 3 1250 36 / 42 95 - 630 11.0 - 32.5 28.5 - 49.2 Note: Product is available with and without test point Bushing Parts Size Modification Reference number Size 2 (800A) without test point RPIS-2-IS Size 2 (800A) with test point RPIS-2-IS-VD Size 3 (1250A) without test point RPIS-3-IS Size 3 (1250A) with test point RPIS-3-IS-VD Insulating cap Size Reference number Size 2 RPIC-2 Size 3 RPIC-3"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "All of the above information, including drawings, illustrations and graphic designs, reflects our present understanding and is to the best of our knowledge and belief correct and reliable.\nUsers, however, should independently evaluate the suitability of each product for the desired application. Under no circumstances does this constitute an assurance of any particular quality\nor performance. Such an assurance is only provided in the context of our product specifications or explicit contractual arrangements. Our liability for these products is set forth in our\nstandard terms and conditions of sale. Raychem, TE Logo and Tyco Electronics are trademarks.\nEnergy Division – economical solutions for the electrical power industry: cable accessories,connectors & fittings, electrical\nequipment, instruments, lighting controls, insulators & insulation enhancement and surge arresters.\nTyco Electronics Raychem GmbH\nEnergy Division\nFinsinger Feld 1,\n85521 Ottobrunn/Munich, Germany\nPhone: +49-89-6089-0\nFax: +49-89-6096345\nhttp://energy.tycoelectronics.com\n70/7\n1541\nPPE\nscinortcelE\nocyT\n©\nEPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 4\nRPIT Installation tools\nCompression tool\nMetal tool case including an easy to\nhandle compression tool for wedge\nand contact ring and all necessary\nadaptation rings.\nReference number: IT-1000-025\nParts to be used for compression of Parts to be used for removal of the\ncontact elements contact elements\nInsert lever and support chain Impact device\nDescription Reference number Description Reference number\nInsert lever IT-1000-026 Device for size 2 IT-1000-028\nSupport chain IT-1000-027 Device for size 3 IT-1000-029",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 4,
+          "image_number": 1,
+          "xref": 2112,
+          "width": 275,
+          "height": 246,
+          "local_path": "data/extracted_images/rpit-rpic_catalogue/page_4_img_1.png",
+          "storage_path": "raychem/rpit-rpic_catalogue/page_4_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rpit-rpic_catalogue/page_4_img_1.png",
+          "caption": null,
+          "context_text": "All of the above information, including drawings, illustrations and graphic designs, reflects our present understanding and is to the best of our knowledge and belief correct and reliable. Users, however, should independently evaluate the suitability of each product for the desired application. Under no circumstances does this constitute an assurance of any particular quality or performance. Such an assurance is only provided in the context of our product specifications or explicit contractual arrangements. Our liability for these products is set forth in our standard terms and conditions of sale. Raychem, TE Logo and Tyco Electronics are trademarks. Energy Division – economical solutions for the electrical power industry: cable accessories,connectors & fittings, electrical equipment, instruments, lighting controls, insulators & insulation enhancement and surge arresters. Tyco Electronics Raychem GmbH Energy Division Finsinger Feld 1, 85521 Ottobrunn/Munich, Germany Phone: +49-89-6089-0 Fax: +49-89-6096345 http://energy.tycoelectronics.com 70/7 1541 PPE scinortcelE ocyT © EPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 4 RPIT Installation tools Compression tool Metal tool case including an easy to handle compression tool for wedge and contact ring and all necessary adaptation rings. Reference number: IT-1000-025 Parts to be used for compression of Parts to be used for removal of the contact elements contact elements Insert lever and support chain Impact device Description Reference number Description Reference number Insert lever IT-1000-026 Device for size 2 IT-1000-028 Support chain IT-1000-027 Device for size 3 IT-1000-029"
+        },
+        {
+          "page_number": 4,
+          "image_number": 2,
+          "xref": 2113,
+          "width": 303,
+          "height": 246,
+          "local_path": "data/extracted_images/rpit-rpic_catalogue/page_4_img_2.png",
+          "storage_path": "raychem/rpit-rpic_catalogue/page_4_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rpit-rpic_catalogue/page_4_img_2.png",
+          "caption": null,
+          "context_text": "All of the above information, including drawings, illustrations and graphic designs, reflects our present understanding and is to the best of our knowledge and belief correct and reliable. Users, however, should independently evaluate the suitability of each product for the desired application. Under no circumstances does this constitute an assurance of any particular quality or performance. Such an assurance is only provided in the context of our product specifications or explicit contractual arrangements. Our liability for these products is set forth in our standard terms and conditions of sale. Raychem, TE Logo and Tyco Electronics are trademarks. Energy Division – economical solutions for the electrical power industry: cable accessories,connectors & fittings, electrical equipment, instruments, lighting controls, insulators & insulation enhancement and surge arresters. Tyco Electronics Raychem GmbH Energy Division Finsinger Feld 1, 85521 Ottobrunn/Munich, Germany Phone: +49-89-6089-0 Fax: +49-89-6096345 http://energy.tycoelectronics.com 70/7 1541 PPE scinortcelE ocyT © EPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 4 RPIT Installation tools Compression tool Metal tool case including an easy to handle compression tool for wedge and contact ring and all necessary adaptation rings. Reference number: IT-1000-025 Parts to be used for compression of Parts to be used for removal of the contact elements contact elements Insert lever and support chain Impact device Description Reference number Description Reference number Insert lever IT-1000-026 Device for size 2 IT-1000-028 Support chain IT-1000-027 Device for size 3 IT-1000-029"
+        },
+        {
+          "page_number": 4,
+          "image_number": 3,
+          "xref": 2114,
+          "width": 338,
+          "height": 224,
+          "local_path": "data/extracted_images/rpit-rpic_catalogue/page_4_img_3.png",
+          "storage_path": "raychem/rpit-rpic_catalogue/page_4_img_3.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rpit-rpic_catalogue/page_4_img_3.png",
+          "caption": null,
+          "context_text": "All of the above information, including drawings, illustrations and graphic designs, reflects our present understanding and is to the best of our knowledge and belief correct and reliable. Users, however, should independently evaluate the suitability of each product for the desired application. Under no circumstances does this constitute an assurance of any particular quality or performance. Such an assurance is only provided in the context of our product specifications or explicit contractual arrangements. Our liability for these products is set forth in our standard terms and conditions of sale. Raychem, TE Logo and Tyco Electronics are trademarks. Energy Division – economical solutions for the electrical power industry: cable accessories,connectors & fittings, electrical equipment, instruments, lighting controls, insulators & insulation enhancement and surge arresters. Tyco Electronics Raychem GmbH Energy Division Finsinger Feld 1, 85521 Ottobrunn/Munich, Germany Phone: +49-89-6089-0 Fax: +49-89-6096345 http://energy.tycoelectronics.com 70/7 1541 PPE scinortcelE ocyT © EPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 4 RPIT Installation tools Compression tool Metal tool case including an easy to handle compression tool for wedge and contact ring and all necessary adaptation rings. Reference number: IT-1000-025 Parts to be used for compression of Parts to be used for removal of the contact elements contact elements Insert lever and support chain Impact device Description Reference number Description Reference number Insert lever IT-1000-026 Device for size 2 IT-1000-028 Support chain IT-1000-027 Device for size 3 IT-1000-029"
+        },
+        {
+          "page_number": 4,
+          "image_number": 4,
+          "xref": 2115,
+          "width": 339,
+          "height": 248,
+          "local_path": "data/extracted_images/rpit-rpic_catalogue/page_4_img_4.png",
+          "storage_path": "raychem/rpit-rpic_catalogue/page_4_img_4.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rpit-rpic_catalogue/page_4_img_4.png",
+          "caption": null,
+          "context_text": "All of the above information, including drawings, illustrations and graphic designs, reflects our present understanding and is to the best of our knowledge and belief correct and reliable. Users, however, should independently evaluate the suitability of each product for the desired application. Under no circumstances does this constitute an assurance of any particular quality or performance. Such an assurance is only provided in the context of our product specifications or explicit contractual arrangements. Our liability for these products is set forth in our standard terms and conditions of sale. Raychem, TE Logo and Tyco Electronics are trademarks. Energy Division – economical solutions for the electrical power industry: cable accessories,connectors & fittings, electrical equipment, instruments, lighting controls, insulators & insulation enhancement and surge arresters. Tyco Electronics Raychem GmbH Energy Division Finsinger Feld 1, 85521 Ottobrunn/Munich, Germany Phone: +49-89-6089-0 Fax: +49-89-6096345 http://energy.tycoelectronics.com 70/7 1541 PPE scinortcelE ocyT © EPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 4 RPIT Installation tools Compression tool Metal tool case including an easy to handle compression tool for wedge and contact ring and all necessary adaptation rings. Reference number: IT-1000-025 Parts to be used for compression of Parts to be used for removal of the contact elements contact elements Insert lever and support chain Impact device Description Reference number Description Reference number Insert lever IT-1000-026 Device for size 2 IT-1000-028 Support chain IT-1000-027 Device for size 3 IT-1000-029"
+        },
+        {
+          "page_number": 4,
+          "image_number": 5,
+          "xref": 2116,
+          "width": 340,
+          "height": 248,
+          "local_path": "data/extracted_images/rpit-rpic_catalogue/page_4_img_5.png",
+          "storage_path": "raychem/rpit-rpic_catalogue/page_4_img_5.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rpit-rpic_catalogue/page_4_img_5.png",
+          "caption": null,
+          "context_text": "All of the above information, including drawings, illustrations and graphic designs, reflects our present understanding and is to the best of our knowledge and belief correct and reliable. Users, however, should independently evaluate the suitability of each product for the desired application. Under no circumstances does this constitute an assurance of any particular quality or performance. Such an assurance is only provided in the context of our product specifications or explicit contractual arrangements. Our liability for these products is set forth in our standard terms and conditions of sale. Raychem, TE Logo and Tyco Electronics are trademarks. Energy Division – economical solutions for the electrical power industry: cable accessories,connectors & fittings, electrical equipment, instruments, lighting controls, insulators & insulation enhancement and surge arresters. Tyco Electronics Raychem GmbH Energy Division Finsinger Feld 1, 85521 Ottobrunn/Munich, Germany Phone: +49-89-6089-0 Fax: +49-89-6096345 http://energy.tycoelectronics.com 70/7 1541 PPE scinortcelE ocyT © EPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 4 RPIT Installation tools Compression tool Metal tool case including an easy to handle compression tool for wedge and contact ring and all necessary adaptation rings. Reference number: IT-1000-025 Parts to be used for compression of Parts to be used for removal of the contact elements contact elements Insert lever and support chain Impact device Description Reference number Description Reference number Insert lever IT-1000-026 Device for size 2 IT-1000-028 Support chain IT-1000-027 Device for size 3 IT-1000-029"
+        },
+        {
+          "page_number": 4,
+          "image_number": 6,
+          "xref": 2117,
+          "width": 186,
+          "height": 312,
+          "local_path": "data/extracted_images/rpit-rpic_catalogue/page_4_img_6.png",
+          "storage_path": "raychem/rpit-rpic_catalogue/page_4_img_6.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/rpit-rpic_catalogue/page_4_img_6.png",
+          "caption": null,
+          "context_text": "All of the above information, including drawings, illustrations and graphic designs, reflects our present understanding and is to the best of our knowledge and belief correct and reliable. Users, however, should independently evaluate the suitability of each product for the desired application. Under no circumstances does this constitute an assurance of any particular quality or performance. Such an assurance is only provided in the context of our product specifications or explicit contractual arrangements. Our liability for these products is set forth in our standard terms and conditions of sale. Raychem, TE Logo and Tyco Electronics are trademarks. Energy Division – economical solutions for the electrical power industry: cable accessories,connectors & fittings, electrical equipment, instruments, lighting controls, insulators & insulation enhancement and surge arresters. Tyco Electronics Raychem GmbH Energy Division Finsinger Feld 1, 85521 Ottobrunn/Munich, Germany Phone: +49-89-6089-0 Fax: +49-89-6096345 http://energy.tycoelectronics.com 70/7 1541 PPE scinortcelE ocyT © EPP1451-7-07:EPP1349-2-07 06.07.2007 15:57 Uhr Seite 4 RPIT Installation tools Compression tool Metal tool case including an easy to handle compression tool for wedge and contact ring and all necessary adaptation rings. Reference number: IT-1000-025 Parts to be used for compression of Parts to be used for removal of the contact elements contact elements Insert lever and support chain Impact device Description Reference number Description Reference number Insert lever IT-1000-026 Device for size 2 IT-1000-028 Support chain IT-1000-027 Device for size 3 IT-1000-029"
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-07-08T09:27:27.950764+00:00"
+}

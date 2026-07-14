@@ -1,0 +1,91 @@
+{
+  "source_file": "230311 - CharCoat JF Brochure.pdf",
+  "source_file_stem": "230311 - CharCoat JF Brochure",
+  "source_path": "knowledge/Charcoat_Catalogues/230311 - CharCoat JF Brochure.pdf",
+  "file_hash": "e0f48d4a6972f88dd230fc3710c748c245a826e7edc959d4940e68057b20bc89",
+  "metadata": {
+    "vendor": "charcoat",
+    "brand": "unknown_brand",
+    "product": "unknown_product",
+    "document_type": "product_kb_pdf"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 1,
+          "image_number": 1,
+          "xref": 34,
+          "width": 2040,
+          "height": 2640,
+          "local_path": "data/extracted_images/230311---charcoat-jf-brochure/page_1_img_1.png",
+          "storage_path": "charcoat/230311---charcoat-jf-brochure/page_1_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/230311---charcoat-jf-brochure/page_1_img_1.png",
+          "caption": null,
+          "context_text": ""
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 2,
+          "image_number": 1,
+          "xref": 4,
+          "width": 2040,
+          "height": 2640,
+          "local_path": "data/extracted_images/230311---charcoat-jf-brochure/page_2_img_1.png",
+          "storage_path": "charcoat/230311---charcoat-jf-brochure/page_2_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/230311---charcoat-jf-brochure/page_2_img_1.png",
+          "caption": null,
+          "context_text": ""
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 3,
+          "image_number": 1,
+          "xref": 8,
+          "width": 2040,
+          "height": 2640,
+          "local_path": "data/extracted_images/230311---charcoat-jf-brochure/page_3_img_1.png",
+          "storage_path": "charcoat/230311---charcoat-jf-brochure/page_3_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/230311---charcoat-jf-brochure/page_3_img_1.png",
+          "caption": null,
+          "context_text": ""
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 4,
+          "image_number": 1,
+          "xref": 12,
+          "width": 2040,
+          "height": 2640,
+          "local_path": "data/extracted_images/230311---charcoat-jf-brochure/page_4_img_1.png",
+          "storage_path": "charcoat/230311---charcoat-jf-brochure/page_4_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/230311---charcoat-jf-brochure/page_4_img_1.png",
+          "caption": null,
+          "context_text": ""
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-07-08T08:46:12.157535+00:00"
+}

@@ -1,0 +1,107 @@
+{
+  "source_file": "CharCoat IC - Draft Specification.pdf",
+  "source_file_stem": "CharCoat IC - Draft Specification",
+  "source_path": "knowledge/Charcoat_Catalogues/CharCoat IC - Draft Specification.pdf",
+  "file_hash": "fa33c6e28f67ebd4127377b1db606b11f19dafb6ea0a1faeda1a8dd3d2a1d95d",
+  "metadata": {
+    "vendor": "charcoat",
+    "brand": "unknown_brand",
+    "product": "unknown_product",
+    "document_type": "product_kb_pdf"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DRAFT SPECIFICATION\nSILICONE RUBBER INSULATOR COATINGS\nGENERAL\nInsulator coating materials must be of room temperature vulcanising (RTV) silicone rubber\nformulation, specifically developed for use on outdoor high voltage porcelain, glass, resin\nand rubber insulation. The coating must be easily applied using standard spray-painting\nequipment and yield a naturally smooth finish.\nCHARACTERISTICS\nIn addition to being highly hydrophobic, other necessary design characteristics are:\n• fast hydrophobicity transfer to contaminating layers\n• fast recovery of hydrophobicity after partial discharge activity\n• excellent arc resistance\n• resistance to damage by corona discharge\n• resistance to deterioration from ultraviolet (UV) radiation\n• resistance to degradation by atmospheric and chemical contaminants such\nas marine salts and industrial pollutants\n• good adhesion to glass, ceramic and resin surfaces\nPROPERTIES\nThe coating should possess the properties specified in the table below.\nPROPERTY TEST METHOD UNIT VALUE\nSpecific gravity @ 23°C 0,9 to 1.25\nDielectric strength @ 23°C BS 2918 kV/mm >50\nSurface resistivity IEC 60003 ohm >1.25 x 1013\nVolume resistivity IEC 60093 ohm metre >2.25 x 1013\nHydrophobicity IEC 62073 contact angle >90°\nArc resistance ASTM D 495-99 seconds >185\nTracking and Erosion ASTM D 2303-97 minutes @ 2.5kV >470\nHydrophobicity Recovery IEC 62073 Wettability class: HC1-HC2 within\n100 hrs corona HC1 - HC6 48 hrs\nAdhesion ISO 16276-2 Class 1\nAdhesion IEC 62217 No loss of\n100 hrs boiling adhesion\nSkin-over time 23° C minutes <25",
+      "tables": [
+        {
+          "page_number": 1,
+          "table_number": 1,
+          "rows": [
+            [
+              "PROPERTY",
+              "TEST METHOD",
+              "UNIT",
+              "VALUE"
+            ],
+            [
+              "Specific gravity @ 23°C",
+              "",
+              "",
+              "0,9 to 1.25"
+            ],
+            [
+              "Dielectric strength @ 23°C",
+              "BS 2918",
+              "kV/mm",
+              ">50"
+            ],
+            [
+              "Surface resistivity",
+              "IEC 60003",
+              "ohm",
+              ">1.25 x 1013"
+            ],
+            [
+              "Volume resistivity",
+              "IEC 60093",
+              "ohm metre",
+              ">2.25 x 1013"
+            ],
+            [
+              "Hydrophobicity",
+              "IEC 62073",
+              "contact angle",
+              ">90°"
+            ],
+            [
+              "Arc resistance",
+              "ASTM D 495-99",
+              "seconds",
+              ">185"
+            ],
+            [
+              "Tracking and Erosion",
+              "ASTM D 2303-97",
+              "minutes @ 2.5kV",
+              ">470"
+            ],
+            [
+              "Hydrophobicity Recovery",
+              "IEC 62073 100 hrs corona",
+              "Wettability class: HC1 - HC6",
+              "HC1-HC2 within 48 hrs"
+            ],
+            [
+              "Adhesion",
+              "ISO 16276-2",
+              "",
+              "Class 1"
+            ],
+            [
+              "Adhesion",
+              "IEC 62217 100 hrs boiling",
+              "",
+              "No loss of adhesion"
+            ],
+            [
+              "Skin-over time 23° C",
+              "",
+              "minutes",
+              "<25"
+            ]
+          ],
+          "markdown": "| PROPERTY | TEST METHOD | UNIT | VALUE |\n| --- | --- | --- | --- |\n| Specific gravity @ 23°C |  |  | 0,9 to 1.25 |\n| Dielectric strength @ 23°C | BS 2918 | kV/mm | >50 |\n| Surface resistivity | IEC 60003 | ohm | >1.25 x 1013 |\n| Volume resistivity | IEC 60093 | ohm metre | >2.25 x 1013 |\n| Hydrophobicity | IEC 62073 | contact angle | >90° |\n| Arc resistance | ASTM D 495-99 | seconds | >185 |\n| Tracking and Erosion | ASTM D 2303-97 | minutes @ 2.5kV | >470 |\n| Hydrophobicity Recovery | IEC 62073 100 hrs corona | Wettability class: HC1 - HC6 | HC1-HC2 within 48 hrs |\n| Adhesion | ISO 16276-2 |  | Class 1 |\n| Adhesion | IEC 62217 100 hrs boiling |  | No loss of adhesion |\n| Skin-over time 23° C |  | minutes | <25 |"
+        }
+      ],
+      "images": []
+    },
+    {
+      "page_number": 2,
+      "text": "COMPOSITION\nIn view of the more controlled curing rate and the extended shelf life, two-part silicone\nrubber compositions are preferred. The shelf life, when stored at temperatures between\n5°C and 30°C must be a minimum of 12 months.\nAfter curing, the silicone rubber content must be more than 50% by weight.\nThe filler used to ensure partial arc resistance must be alumina trihydrate.\nThe coating must be supplied with a suitable primer to ensure excellent adhesion to\nglass, ceramic, resin and rubber substrates.\nPERFORMANCE\nThe material must have displayed satisfactory and maintenance-free service performance\nover a period at least 10 years at sites of at least “Very Heavy” IEC pollution severity\nclassification.\nIn addition to the above, the coating must have passed a performance evaluation of a\nminimum of one year duration at a naturally polluted insulator test station as per the Eskom\nProcedure DPC 34-224 or similar.\nPACKING\nThe material must be available in 1 litre and 5 litre tins accompanied by pre-measured\nvolumes of catalyst and primer. The tins must be marked with a batch number and the\nmanufacturing date.",
+      "tables": [],
+      "images": []
+    }
+  ],
+  "extracted_at": "2026-07-08T08:48:59.033065+00:00"
+}

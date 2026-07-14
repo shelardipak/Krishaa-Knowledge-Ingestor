@@ -1,0 +1,2 @@
+[console_scripts]
+rag-ingest = rag_ingestion.cli:main

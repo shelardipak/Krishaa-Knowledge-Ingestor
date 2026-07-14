@@ -1,0 +1,301 @@
+{
+  "source_file": "CharCoat CTI Analysis - Jan 2022.pdf",
+  "source_file_stem": "CharCoat CTI Analysis - Jan 2022",
+  "source_path": "knowledge/Charcoat_Catalogues/CharCoat CTI Analysis - Jan 2022.pdf",
+  "file_hash": "a70d7c4f13e007920d3658a690160e90b357e868457b457a5ac452cc784f9cc8",
+  "metadata": {
+    "vendor": "charcoat",
+    "brand": "unknown_brand",
+    "product": "unknown_product",
+    "document_type": "product_kb_pdf"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 1,
+          "image_number": 1,
+          "xref": 358,
+          "width": 2550,
+          "height": 3299,
+          "local_path": "data/extracted_images/charcoat-cti-analysis---jan-2022/page_1_img_1.png",
+          "storage_path": "charcoat/charcoat-cti-analysis---jan-2022/page_1_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/charcoat-cti-analysis---jan-2022/page_1_img_1.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 1,
+          "image_number": 2,
+          "xref": 362,
+          "width": 1870,
+          "height": 2420,
+          "local_path": "data/extracted_images/charcoat-cti-analysis---jan-2022/page_1_img_2.png",
+          "storage_path": "charcoat/charcoat-cti-analysis---jan-2022/page_1_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/charcoat-cti-analysis---jan-2022/page_1_img_2.png",
+          "caption": null,
+          "context_text": ""
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "CharCoat CTI can save you money on heating or cooling costs, reduce your maintenance frequency and\nkeep your team safer.\nCOST REDUCTION\nWith the insulation properties of CTI heat loss (hot or cold) is reduced significantly leading to a more\nefficient and cost‐effective business unit.\nBy retaining the temperature, the energy required to produce the temperature for the process is lessened\nsaving dollars, or it can be by not having to run heating or cooling units as frequently saving power with\nthe likes of Air Conditioner running costs.\nAn example of cost savings was realized at a fuel production plant in Russia where the boiler efficiency\nwas lower than desired costing additional fuel to run the unit. The average temperature of the boiler outer\nsurface design was meant to be 60oC while running, this was calculated to give a heat efficiency loss of 2%\nto 5%. On taken temperature readings over the boiler unit it was found the surface area exceeded 100oC\n(due to degrading of boiler internal lining) so the fuel efficiency loss was much greater than first thought.\nThe decision was made to do an application of CTI as an ultra‐thin thermal coating. The calculations for\nsavings were a reduction of 3.7% on fuel costs to run the boiler. The CTI was applied at the end September\n2016, from the first five months of operation the fuel consumption was recorded and compared to the\nsame calendar month from the previous year (consumption varies with the seasons). The average\nreduction over the five‐month period was 5.5% almost 50% higher than had been calculated, with this\npayback was <7mths.\nFig. 1 Boiler Fuel Consumption Reduction Figures\nFUEL CONSUMPTION (TUT)\nMONTH % OF REDUCTION\nOctober 7.17 %\nNovember 6.18 %\nDecember 5.88 %\nJanuary 4.90 %\nFebruary 3.46 %\nFrom this first study after the five months of operation it confirmed that it was the right decision to apply\nthe CTI as an Ultra‐Thin Thermal Insulation, other benefits included:\n Reduced gas consumption.\n Stabilized the temperature inside the furnace.\n Improved quality of the resulting product.\n Improved safety of staff (furnace temp. not exceeding 60°C).\n Facilitated external monitoring of the state of the furnace body. In the case of the\ntemperature of the body there were observed “red stains. “ POK” is almost transparent\nto monitor the surface of thermal imaging equipment.\n The noise level from the operation of the process furnace has decreased.",
+      "tables": [
+        {
+          "page_number": 2,
+          "table_number": 1,
+          "rows": [
+            [
+              "",
+              "FUEL CONSUMPTION (TUT)",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "MONTH",
+              "",
+              "",
+              "% OF REDUCTION",
+              ""
+            ],
+            [
+              "October",
+              "",
+              "",
+              "7.17 %",
+              "",
+              ""
+            ],
+            [
+              "November",
+              "",
+              "",
+              "6.18 %",
+              "",
+              ""
+            ],
+            [
+              "December",
+              "",
+              "",
+              "5.88 %",
+              "",
+              ""
+            ],
+            [
+              "January",
+              "",
+              "",
+              "4.90 %",
+              "",
+              ""
+            ],
+            [
+              "February",
+              "",
+              "",
+              "3.46 %",
+              "",
+              ""
+            ]
+          ],
+          "markdown": "| Column 1 | FUEL CONSUMPTION (TUT) | Column 3 | Column 4 | Column 5 | Column 6 |\n| --- | --- | --- | --- | --- | --- |\n|  | MONTH |  |  | % OF REDUCTION |  |\n| October |  |  | 7.17 % |  |  |\n| November |  |  | 6.18 % |  |  |\n| December |  |  | 5.88 % |  |  |\n| January |  |  | 4.90 % |  |  |\n| February |  |  | 3.46 % |  |  |"
+        }
+      ],
+      "images": [
+        {
+          "page_number": 2,
+          "image_number": 1,
+          "xref": 358,
+          "width": 2550,
+          "height": 3299,
+          "local_path": "data/extracted_images/charcoat-cti-analysis---jan-2022/page_2_img_1.png",
+          "storage_path": "charcoat/charcoat-cti-analysis---jan-2022/page_2_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/charcoat-cti-analysis---jan-2022/page_2_img_1.png",
+          "caption": "Fig. 1 Boiler Fuel Consumption Reduction Figures",
+          "context_text": "CharCoat CTI can save you money on heating or cooling costs, reduce your maintenance frequency and keep your team safer. COST REDUCTION With the insulation properties of CTI heat loss (hot or cold) is reduced significantly leading to a more efficient and cost‐effective business unit. By retaining the temperature, the energy required to produce the temperature for the process is lessened saving dollars, or it can be by not having to run heating or cooling units as frequently saving power with the likes of Air Conditioner running costs. An example of cost savings was realized at a fuel production plant in Russia where the boiler efficiency was lower than desired costing additional fuel to run the unit. The average temperature of the boiler outer surface design was meant to be 60oC while running, this was calculated to give a heat efficiency loss of 2% to 5%. On taken temperature readings over the boiler unit it was found the surface area exceeded 100oC (due to degrading of boiler internal lining) so the fuel efficiency loss was much greater than first thought. The decision was made to do an application of CTI as an ultra‐thin thermal coating. The calculations for savings were a reduction of 3.7% on fuel costs to run the boiler. The CTI was applied at the end September 2016, from the first five months of operation the fuel consumption was recorded and compared to the same calendar month from the previous year (consumption varies with the seasons). The average reduction over the five‐month period was 5.5% almost 50% higher than had been calculated, with this payback was <7mths. Fig. 1 Boiler Fuel Consumption Reduction Figures FUEL CONSUMPTION (TUT) MONTH % OF REDUCTION October 7.17 % November 6.18 % December 5.88 % January 4.90 % February 3.46 % From this first study after the five months of operation it confirmed that it was the right decision to apply the CTI as an Ultra‐Thin Thermal Insulation, other benefits included:  Reduced gas consumption.  Stabilized the temperature inside the furnace.  Improved quality of the resulting product.  Improved safety of staff (furnace temp. not exceeding 60°C).  Facilitated external monitoring of the state of the furnace body. In the case of the temperature of the body there were observed “red stains. “ POK” is almost transparent to monitor the surface of thermal imaging equipment.  The noise level from the operation of the process furnace has decreased."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "An uninsulated hot water tank is another example of the benefits of using CTI as a thermal insulation. This\ntank had an average surface temperature of 51oC. CTI was applied at <1mm coating over the entire hot\nwater tank.\nThis resulted in a reducing the temperature to 39.5oC degrees on the surface of the tank, meaning the\nenergy requirement will be reduced to maintain and produce the hot water. Measurements of heat flow\nstrength (IPP‐2) showed 140 w/m2, compared to the initial figures of 370 W/m2 on min. vat insulation.\nPrior to coating temp ave. 51oC After coating with <1mm of CTI\nMaking a calculation for a standard tank according to SNIP 2.04. 14‐88\nOriginal Data\n Energy ‐ water\n Temperature of the coolant is 60oC\n Ambient air temperature is 25oC\n Tank diameter\n Tank height\nCalculation using CTI as a energy efficient insulation layer:\nCalculation using mineral cotton wool as an insulation layer:",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 3,
+          "image_number": 1,
+          "xref": 358,
+          "width": 2550,
+          "height": 3299,
+          "local_path": "data/extracted_images/charcoat-cti-analysis---jan-2022/page_3_img_1.png",
+          "storage_path": "charcoat/charcoat-cti-analysis---jan-2022/page_3_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/charcoat-cti-analysis---jan-2022/page_3_img_1.png",
+          "caption": null,
+          "context_text": "An uninsulated hot water tank is another example of the benefits of using CTI as a thermal insulation. This tank had an average surface temperature of 51oC. CTI was applied at <1mm coating over the entire hot water tank. This resulted in a reducing the temperature to 39.5oC degrees on the surface of the tank, meaning the energy requirement will be reduced to maintain and produce the hot water. Measurements of heat flow strength (IPP‐2) showed 140 w/m2, compared to the initial figures of 370 W/m2 on min. vat insulation. Prior to coating temp ave. 51oC After coating with <1mm of CTI Making a calculation for a standard tank according to SNIP 2.04. 14‐88 Original Data  Energy ‐ water  Temperature of the coolant is 60oC  Ambient air temperature is 25oC  Tank diameter  Tank height Calculation using CTI as a energy efficient insulation layer: Calculation using mineral cotton wool as an insulation layer:"
+        },
+        {
+          "page_number": 3,
+          "image_number": 2,
+          "xref": 7,
+          "width": 1952,
+          "height": 216,
+          "local_path": "data/extracted_images/charcoat-cti-analysis---jan-2022/page_3_img_2.png",
+          "storage_path": "charcoat/charcoat-cti-analysis---jan-2022/page_3_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/charcoat-cti-analysis---jan-2022/page_3_img_2.png",
+          "caption": null,
+          "context_text": "An uninsulated hot water tank is another example of the benefits of using CTI as a thermal insulation. This tank had an average surface temperature of 51oC. CTI was applied at <1mm coating over the entire hot water tank. This resulted in a reducing the temperature to 39.5oC degrees on the surface of the tank, meaning the energy requirement will be reduced to maintain and produce the hot water. Measurements of heat flow strength (IPP‐2) showed 140 w/m2, compared to the initial figures of 370 W/m2 on min. vat insulation. Prior to coating temp ave. 51oC After coating with <1mm of CTI Making a calculation for a standard tank according to SNIP 2.04. 14‐88 Original Data  Energy ‐ water  Temperature of the coolant is 60oC  Ambient air temperature is 25oC  Tank diameter  Tank height Calculation using CTI as a energy efficient insulation layer: Calculation using mineral cotton wool as an insulation layer:"
+        },
+        {
+          "page_number": 3,
+          "image_number": 3,
+          "xref": 8,
+          "width": 1951,
+          "height": 239,
+          "local_path": "data/extracted_images/charcoat-cti-analysis---jan-2022/page_3_img_3.png",
+          "storage_path": "charcoat/charcoat-cti-analysis---jan-2022/page_3_img_3.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/charcoat-cti-analysis---jan-2022/page_3_img_3.png",
+          "caption": null,
+          "context_text": "An uninsulated hot water tank is another example of the benefits of using CTI as a thermal insulation. This tank had an average surface temperature of 51oC. CTI was applied at <1mm coating over the entire hot water tank. This resulted in a reducing the temperature to 39.5oC degrees on the surface of the tank, meaning the energy requirement will be reduced to maintain and produce the hot water. Measurements of heat flow strength (IPP‐2) showed 140 w/m2, compared to the initial figures of 370 W/m2 on min. vat insulation. Prior to coating temp ave. 51oC After coating with <1mm of CTI Making a calculation for a standard tank according to SNIP 2.04. 14‐88 Original Data  Energy ‐ water  Temperature of the coolant is 60oC  Ambient air temperature is 25oC  Tank diameter  Tank height Calculation using CTI as a energy efficient insulation layer: Calculation using mineral cotton wool as an insulation layer:"
+        },
+        {
+          "page_number": 3,
+          "image_number": 4,
+          "xref": 9,
+          "width": 387,
+          "height": 290,
+          "local_path": "data/extracted_images/charcoat-cti-analysis---jan-2022/page_3_img_4.png",
+          "storage_path": "charcoat/charcoat-cti-analysis---jan-2022/page_3_img_4.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/charcoat-cti-analysis---jan-2022/page_3_img_4.png",
+          "caption": null,
+          "context_text": "An uninsulated hot water tank is another example of the benefits of using CTI as a thermal insulation. This tank had an average surface temperature of 51oC. CTI was applied at <1mm coating over the entire hot water tank. This resulted in a reducing the temperature to 39.5oC degrees on the surface of the tank, meaning the energy requirement will be reduced to maintain and produce the hot water. Measurements of heat flow strength (IPP‐2) showed 140 w/m2, compared to the initial figures of 370 W/m2 on min. vat insulation. Prior to coating temp ave. 51oC After coating with <1mm of CTI Making a calculation for a standard tank according to SNIP 2.04. 14‐88 Original Data  Energy ‐ water  Temperature of the coolant is 60oC  Ambient air temperature is 25oC  Tank diameter  Tank height Calculation using CTI as a energy efficient insulation layer: Calculation using mineral cotton wool as an insulation layer:"
+        },
+        {
+          "page_number": 3,
+          "image_number": 5,
+          "xref": 10,
+          "width": 489,
+          "height": 275,
+          "local_path": "data/extracted_images/charcoat-cti-analysis---jan-2022/page_3_img_5.png",
+          "storage_path": "charcoat/charcoat-cti-analysis---jan-2022/page_3_img_5.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/charcoat-cti-analysis---jan-2022/page_3_img_5.png",
+          "caption": null,
+          "context_text": "An uninsulated hot water tank is another example of the benefits of using CTI as a thermal insulation. This tank had an average surface temperature of 51oC. CTI was applied at <1mm coating over the entire hot water tank. This resulted in a reducing the temperature to 39.5oC degrees on the surface of the tank, meaning the energy requirement will be reduced to maintain and produce the hot water. Measurements of heat flow strength (IPP‐2) showed 140 w/m2, compared to the initial figures of 370 W/m2 on min. vat insulation. Prior to coating temp ave. 51oC After coating with <1mm of CTI Making a calculation for a standard tank according to SNIP 2.04. 14‐88 Original Data  Energy ‐ water  Temperature of the coolant is 60oC  Ambient air temperature is 25oC  Tank diameter  Tank height Calculation using CTI as a energy efficient insulation layer: Calculation using mineral cotton wool as an insulation layer:"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "COMPARISON ON APPLICATION METHODS\nCTI\n Clean tank\n Apply CTI with brush, roller or spray\n Clean up\nMineral cotton wool\n Anti‐corrosion treatment of the tank\n Installation of bandage fasteners ‐ 2 layers\n Installation of mineral wool\n Waterproofing mineral wool\n Montage bandage\n Installation of the cover layer\n The final coloration of the tank in 2 layers\n Guarantee life of thermal insulation from mineral wool is 5 years (According to the site personnel\nwell before the 5 years the material dissolved and crumbled down the structure).\n Replacing the insulation requires work to disassemble the structure, replace the elements and\nre‐insulate.\nConclusions\n CTI material has an excellent adhesion to the metal surface.\n Reducing heat loss and saving energy resources.\n Significant advantage over the traditional insulation and the speed of application of CTI.\n The work was carried out without stopping and disabling the equipment.\n It is easily applied to the surface of any shape.\n Does not create an additional load on the design.\n The use of CTI liquid insulation allows for significant work in comparison with traditional insulation\nwork, as well as to eliminate the possibility of building waste, which is in the process of application\nof traditional insulators.\n The material reduces the time for location and emergency management.\n The treated surface has an aesthetic look.\n Long life of the detention facility, up to 10 years.",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 4,
+          "image_number": 1,
+          "xref": 358,
+          "width": 2550,
+          "height": 3299,
+          "local_path": "data/extracted_images/charcoat-cti-analysis---jan-2022/page_4_img_1.png",
+          "storage_path": "charcoat/charcoat-cti-analysis---jan-2022/page_4_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/charcoat-cti-analysis---jan-2022/page_4_img_1.png",
+          "caption": null,
+          "context_text": "COMPARISON ON APPLICATION METHODS CTI  Clean tank  Apply CTI with brush, roller or spray  Clean up Mineral cotton wool  Anti‐corrosion treatment of the tank  Installation of bandage fasteners ‐ 2 layers  Installation of mineral wool  Waterproofing mineral wool  Montage bandage  Installation of the cover layer  The final coloration of the tank in 2 layers  Guarantee life of thermal insulation from mineral wool is 5 years (According to the site personnel well before the 5 years the material dissolved and crumbled down the structure).  Replacing the insulation requires work to disassemble the structure, replace the elements and re‐insulate. Conclusions  CTI material has an excellent adhesion to the metal surface.  Reducing heat loss and saving energy resources.  Significant advantage over the traditional insulation and the speed of application of CTI.  The work was carried out without stopping and disabling the equipment.  It is easily applied to the surface of any shape.  Does not create an additional load on the design.  The use of CTI liquid insulation allows for significant work in comparison with traditional insulation work, as well as to eliminate the possibility of building waste, which is in the process of application of traditional insulators.  The material reduces the time for location and emergency management.  The treated surface has an aesthetic look.  Long life of the detention facility, up to 10 years."
+        },
+        {
+          "page_number": 4,
+          "image_number": 2,
+          "xref": 14,
+          "width": 366,
+          "height": 243,
+          "local_path": "data/extracted_images/charcoat-cti-analysis---jan-2022/page_4_img_2.png",
+          "storage_path": "charcoat/charcoat-cti-analysis---jan-2022/page_4_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/charcoat-cti-analysis---jan-2022/page_4_img_2.png",
+          "caption": null,
+          "context_text": "COMPARISON ON APPLICATION METHODS CTI  Clean tank  Apply CTI with brush, roller or spray  Clean up Mineral cotton wool  Anti‐corrosion treatment of the tank  Installation of bandage fasteners ‐ 2 layers  Installation of mineral wool  Waterproofing mineral wool  Montage bandage  Installation of the cover layer  The final coloration of the tank in 2 layers  Guarantee life of thermal insulation from mineral wool is 5 years (According to the site personnel well before the 5 years the material dissolved and crumbled down the structure).  Replacing the insulation requires work to disassemble the structure, replace the elements and re‐insulate. Conclusions  CTI material has an excellent adhesion to the metal surface.  Reducing heat loss and saving energy resources.  Significant advantage over the traditional insulation and the speed of application of CTI.  The work was carried out without stopping and disabling the equipment.  It is easily applied to the surface of any shape.  Does not create an additional load on the design.  The use of CTI liquid insulation allows for significant work in comparison with traditional insulation work, as well as to eliminate the possibility of building waste, which is in the process of application of traditional insulators.  The material reduces the time for location and emergency management.  The treated surface has an aesthetic look.  Long life of the detention facility, up to 10 years."
+        },
+        {
+          "page_number": 4,
+          "image_number": 3,
+          "xref": 15,
+          "width": 380,
+          "height": 245,
+          "local_path": "data/extracted_images/charcoat-cti-analysis---jan-2022/page_4_img_3.png",
+          "storage_path": "charcoat/charcoat-cti-analysis---jan-2022/page_4_img_3.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/charcoat-cti-analysis---jan-2022/page_4_img_3.png",
+          "caption": null,
+          "context_text": "COMPARISON ON APPLICATION METHODS CTI  Clean tank  Apply CTI with brush, roller or spray  Clean up Mineral cotton wool  Anti‐corrosion treatment of the tank  Installation of bandage fasteners ‐ 2 layers  Installation of mineral wool  Waterproofing mineral wool  Montage bandage  Installation of the cover layer  The final coloration of the tank in 2 layers  Guarantee life of thermal insulation from mineral wool is 5 years (According to the site personnel well before the 5 years the material dissolved and crumbled down the structure).  Replacing the insulation requires work to disassemble the structure, replace the elements and re‐insulate. Conclusions  CTI material has an excellent adhesion to the metal surface.  Reducing heat loss and saving energy resources.  Significant advantage over the traditional insulation and the speed of application of CTI.  The work was carried out without stopping and disabling the equipment.  It is easily applied to the surface of any shape.  Does not create an additional load on the design.  The use of CTI liquid insulation allows for significant work in comparison with traditional insulation work, as well as to eliminate the possibility of building waste, which is in the process of application of traditional insulators.  The material reduces the time for location and emergency management.  The treated surface has an aesthetic look.  Long life of the detention facility, up to 10 years."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "MAINTENANCE\nTraditional insulation and cladding protection to both retain temperature and to protect any workers from\nburns has always suffered from the issue of CUI (Corrosion Under Insulation). When you change to CTI\nthen CUI is gone and is no longer an issue.\nCUI can take place under any insulation.\nCorrosion under insulation (CUI) is the corrosion of piping and vessels that occurs beneath insulation\nbecause of water penetration. The water can come from rainwater, leakage, deluge system water, wash\nwater, or sweating from temperature cycling or low temperature operation such as refrigeration units.\nFor corrosion to occur, the carbon steel must be directly contacted by aerated water and may be\naccelerated by other factors such as temperature or other contaminants. Water enters an insulated\nsystem primarily through breaks in the weatherproofing from sources such as:\n Rainfall\n Drift from cooling towers.\n Spray from wash downs.\n Condensation on cold surface after vapour barrier.\n Damage (when the temperature of the steel surface is lower than the atmospheric dew point).\nOne of the biggest issues with CUI is that it is occurring hidden under the traditional insulation, this can\nresult in not finding the problem until it shuts your operation down costing lots of $$ in lost production\neven without the maintenance repair bill.\nStopping CUI from starting at all can be a simple choice of product. Typically pipe insulation has been\nlagging and encased in sheeting. So many joins and leak points create a perfect scenario for CUI. CharCoat\nCTI, CTI‐120, CTI‐300 and CTI‐600 are built for purpose in insulating pipe and substrate, lowering\ntemperature to stop epidermal burn and of course eradicate CUI once and for all.\nCTI if damaged by operations or hit by machines is simple to patch with a brush and small pot of CTI and\ncan generally be applied while the equipment is running. If maintenance costs and downtime are issues\nfor you then CTI is the way to improve you operation and reduce costs and maintenance frequency.\nMonitoring your maintenance costs along with knowing what lost production can cost you is an important\npart of improve your production stream and being able to increase output while lowering your cost/unit.\nA simple example is production rate times lost time times production unit loss, i.e. and example below for\nsay an iron ore mining operation would be:\nFeed rate X Feed Grade X minutes lost X recovery i.e. 2000tph @ 2% HG @ 98.5% recovery, with a Fe price\nof US$93/t and the plant was stopped because of a breakdown for 2.5hrs it equates to a loss revenue\n(opportunity) of US$104K.",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 5,
+          "image_number": 1,
+          "xref": 358,
+          "width": 2550,
+          "height": 3299,
+          "local_path": "data/extracted_images/charcoat-cti-analysis---jan-2022/page_5_img_1.png",
+          "storage_path": "charcoat/charcoat-cti-analysis---jan-2022/page_5_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/charcoat-cti-analysis---jan-2022/page_5_img_1.png",
+          "caption": null,
+          "context_text": "MAINTENANCE Traditional insulation and cladding protection to both retain temperature and to protect any workers from burns has always suffered from the issue of CUI (Corrosion Under Insulation). When you change to CTI then CUI is gone and is no longer an issue. CUI can take place under any insulation. Corrosion under insulation (CUI) is the corrosion of piping and vessels that occurs beneath insulation because of water penetration. The water can come from rainwater, leakage, deluge system water, wash water, or sweating from temperature cycling or low temperature operation such as refrigeration units. For corrosion to occur, the carbon steel must be directly contacted by aerated water and may be accelerated by other factors such as temperature or other contaminants. Water enters an insulated system primarily through breaks in the weatherproofing from sources such as:  Rainfall  Drift from cooling towers.  Spray from wash downs.  Condensation on cold surface after vapour barrier.  Damage (when the temperature of the steel surface is lower than the atmospheric dew point). One of the biggest issues with CUI is that it is occurring hidden under the traditional insulation, this can result in not finding the problem until it shuts your operation down costing lots of $$ in lost production even without the maintenance repair bill. Stopping CUI from starting at all can be a simple choice of product. Typically pipe insulation has been lagging and encased in sheeting. So many joins and leak points create a perfect scenario for CUI. CharCoat CTI, CTI‐120, CTI‐300 and CTI‐600 are built for purpose in insulating pipe and substrate, lowering temperature to stop epidermal burn and of course eradicate CUI once and for all. CTI if damaged by operations or hit by machines is simple to patch with a brush and small pot of CTI and can generally be applied while the equipment is running. If maintenance costs and downtime are issues for you then CTI is the way to improve you operation and reduce costs and maintenance frequency. Monitoring your maintenance costs along with knowing what lost production can cost you is an important part of improve your production stream and being able to increase output while lowering your cost/unit. A simple example is production rate times lost time times production unit loss, i.e. and example below for say an iron ore mining operation would be: Feed rate X Feed Grade X minutes lost X recovery i.e. 2000tph @ 2% HG @ 98.5% recovery, with a Fe"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "SAFETY\nAnyone who has worked in heavy industry over the last 20+ years will know how much we have improved\nin the area of safety and looking after our most important asset, our workers. If an accident occurs where\nsomeone is hurt or injured there is a lot of time, money spent on sorting along with the reputational\ndamage that can cause to you company’s name and image.\nCTI can reduce the risk of epidermal burns hugely for both hot and cold pipelines and other plant\nequipment. It will also reduce the temperature of working areas when applied correctly to building rooves\nand surfaces, increasing employee comfort and productivity.\nBy applying CTI in any areas where personnel can come in contact with high or very low temperature pipes\nor other plant items you can ensure (DFT dependent on what temperature the pipe or unit is running).\nThe photo below shows the temperature reading of a pipe at 130.4oC before it had CTI coating applied.\nThe 2nd photo post coating shows a temperature of 39.3oC which gives you the knowledge and comfort\nthat your workers are not at risk of epidermal burns in that area.",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 6,
+          "image_number": 1,
+          "xref": 358,
+          "width": 2550,
+          "height": 3299,
+          "local_path": "data/extracted_images/charcoat-cti-analysis---jan-2022/page_6_img_1.png",
+          "storage_path": "charcoat/charcoat-cti-analysis---jan-2022/page_6_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/charcoat-cti-analysis---jan-2022/page_6_img_1.png",
+          "caption": null,
+          "context_text": "SAFETY Anyone who has worked in heavy industry over the last 20+ years will know how much we have improved in the area of safety and looking after our most important asset, our workers. If an accident occurs where someone is hurt or injured there is a lot of time, money spent on sorting along with the reputational damage that can cause to you company’s name and image. CTI can reduce the risk of epidermal burns hugely for both hot and cold pipelines and other plant equipment. It will also reduce the temperature of working areas when applied correctly to building rooves and surfaces, increasing employee comfort and productivity. By applying CTI in any areas where personnel can come in contact with high or very low temperature pipes or other plant items you can ensure (DFT dependent on what temperature the pipe or unit is running). The photo below shows the temperature reading of a pipe at 130.4oC before it had CTI coating applied. The 2nd photo post coating shows a temperature of 39.3oC which gives you the knowledge and comfort that your workers are not at risk of epidermal burns in that area."
+        },
+        {
+          "page_number": 6,
+          "image_number": 2,
+          "xref": 20,
+          "width": 793,
+          "height": 593,
+          "local_path": "data/extracted_images/charcoat-cti-analysis---jan-2022/page_6_img_2.png",
+          "storage_path": "charcoat/charcoat-cti-analysis---jan-2022/page_6_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/charcoat-cti-analysis---jan-2022/page_6_img_2.png",
+          "caption": null,
+          "context_text": "SAFETY Anyone who has worked in heavy industry over the last 20+ years will know how much we have improved in the area of safety and looking after our most important asset, our workers. If an accident occurs where someone is hurt or injured there is a lot of time, money spent on sorting along with the reputational damage that can cause to you company’s name and image. CTI can reduce the risk of epidermal burns hugely for both hot and cold pipelines and other plant equipment. It will also reduce the temperature of working areas when applied correctly to building rooves and surfaces, increasing employee comfort and productivity. By applying CTI in any areas where personnel can come in contact with high or very low temperature pipes or other plant items you can ensure (DFT dependent on what temperature the pipe or unit is running). The photo below shows the temperature reading of a pipe at 130.4oC before it had CTI coating applied. The 2nd photo post coating shows a temperature of 39.3oC which gives you the knowledge and comfort that your workers are not at risk of epidermal burns in that area."
+        },
+        {
+          "page_number": 6,
+          "image_number": 3,
+          "xref": 21,
+          "width": 678,
+          "height": 600,
+          "local_path": "data/extracted_images/charcoat-cti-analysis---jan-2022/page_6_img_3.png",
+          "storage_path": "charcoat/charcoat-cti-analysis---jan-2022/page_6_img_3.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/charcoat/charcoat-cti-analysis---jan-2022/page_6_img_3.png",
+          "caption": null,
+          "context_text": "SAFETY Anyone who has worked in heavy industry over the last 20+ years will know how much we have improved in the area of safety and looking after our most important asset, our workers. If an accident occurs where someone is hurt or injured there is a lot of time, money spent on sorting along with the reputational damage that can cause to you company’s name and image. CTI can reduce the risk of epidermal burns hugely for both hot and cold pipelines and other plant equipment. It will also reduce the temperature of working areas when applied correctly to building rooves and surfaces, increasing employee comfort and productivity. By applying CTI in any areas where personnel can come in contact with high or very low temperature pipes or other plant items you can ensure (DFT dependent on what temperature the pipe or unit is running). The photo below shows the temperature reading of a pipe at 130.4oC before it had CTI coating applied. The 2nd photo post coating shows a temperature of 39.3oC which gives you the knowledge and comfort that your workers are not at risk of epidermal burns in that area."
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-07-08T08:48:29.776260+00:00"
+}

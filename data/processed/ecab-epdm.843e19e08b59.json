@@ -1,0 +1,101 @@
+{
+  "source_file": "ECAB-EPDM.pdf",
+  "source_file_stem": "ECAB-EPDM",
+  "source_path": "knowledge/Raychem_Catalogues/ECAB-EPDM.pdf",
+  "file_hash": "843e19e08b59a46f98d9b13fbb76130e2c5aa4da2930483302c152b6568cf924",
+  "metadata": {
+    "vendor": "raychem",
+    "brand": "unknown_brand",
+    "product": "unknown_product",
+    "document_type": "product_kb_pdf"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 1,
+          "image_number": 1,
+          "xref": 31,
+          "width": 1651,
+          "height": 1992,
+          "local_path": "data/extracted_images/ecab-epdm/page_1_img_1.png",
+          "storage_path": "raychem/ecab-epdm/page_1_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/ecab-epdm/page_1_img_1.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 1,
+          "image_number": 2,
+          "xref": 32,
+          "width": 655,
+          "height": 715,
+          "local_path": "data/extracted_images/ecab-epdm/page_1_img_2.png",
+          "storage_path": "raychem/ecab-epdm/page_1_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/ecab-epdm/page_1_img_2.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 1,
+          "image_number": 3,
+          "xref": 33,
+          "width": 912,
+          "height": 605,
+          "local_path": "data/extracted_images/ecab-epdm/page_1_img_3.png",
+          "storage_path": "raychem/ecab-epdm/page_1_img_3.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/ecab-epdm/page_1_img_3.png",
+          "caption": null,
+          "context_text": ""
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 2,
+          "image_number": 1,
+          "xref": 3,
+          "width": 334,
+          "height": 365,
+          "local_path": "data/extracted_images/ecab-epdm/page_2_img_1.png",
+          "storage_path": "raychem/ecab-epdm/page_2_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/ecab-epdm/page_2_img_1.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 2,
+          "image_number": 2,
+          "xref": 4,
+          "width": 816,
+          "height": 544,
+          "local_path": "data/extracted_images/ecab-epdm/page_2_img_2.png",
+          "storage_path": "raychem/ecab-epdm/page_2_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/ecab-epdm/page_2_img_2.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 2,
+          "image_number": 3,
+          "xref": 5,
+          "width": 499,
+          "height": 374,
+          "local_path": "data/extracted_images/ecab-epdm/page_2_img_3.png",
+          "storage_path": "raychem/ecab-epdm/page_2_img_3.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/ecab-epdm/page_2_img_3.png",
+          "caption": null,
+          "context_text": ""
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-07-08T09:24:47.666863+00:00"
+}

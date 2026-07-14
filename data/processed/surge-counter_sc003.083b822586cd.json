@@ -1,0 +1,53 @@
+{
+  "source_file": "Surge COunter_SC003.pdf",
+  "source_file_stem": "Surge COunter_SC003",
+  "source_path": "knowledge/Raychem_Catalogues/Surge COunter_SC003.pdf",
+  "file_hash": "083b822586cd2b336b4b04e402918c8f942a1c5f1ba5b40a78875243c9342005",
+  "metadata": {
+    "vendor": "raychem",
+    "brand": "unknown_brand",
+    "product": "unknown_product",
+    "document_type": "product_kb_pdf"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 1,
+          "image_number": 1,
+          "xref": 4,
+          "width": 1240,
+          "height": 1753,
+          "local_path": "data/extracted_images/surge-counter_sc003/page_1_img_1.png",
+          "storage_path": "raychem/surge-counter_sc003/page_1_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/surge-counter_sc003/page_1_img_1.png",
+          "caption": null,
+          "context_text": ""
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 2,
+          "image_number": 1,
+          "xref": 7,
+          "width": 1240,
+          "height": 1753,
+          "local_path": "data/extracted_images/surge-counter_sc003/page_2_img_1.png",
+          "storage_path": "raychem/surge-counter_sc003/page_2_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/surge-counter_sc003/page_2_img_1.png",
+          "caption": null,
+          "context_text": ""
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-07-08T09:35:25.884110+00:00"
+}

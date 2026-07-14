@@ -1,0 +1,125 @@
+{
+  "source_file": "BPTM.pdf",
+  "source_file_stem": "BPTM",
+  "source_path": "knowledge/Raychem_Catalogues/BPTM.pdf",
+  "file_hash": "ef62d084a505960b4344b82e03a5b6a8b575fccf9e52eff48de7eb4a0d371c0f",
+  "metadata": {
+    "vendor": "raychem",
+    "brand": "unknown_brand",
+    "product": "unknown_product",
+    "document_type": "product_kb_pdf"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 1,
+          "image_number": 1,
+          "xref": 8,
+          "width": 3191,
+          "height": 1885,
+          "local_path": "data/extracted_images/bptm/page_1_img_1.png",
+          "storage_path": "raychem/bptm/page_1_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/bptm/page_1_img_1.png",
+          "caption": null,
+          "context_text": ""
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "",
+      "tables": [],
+      "images": [
+        {
+          "page_number": 2,
+          "image_number": 1,
+          "xref": 12,
+          "width": 2214,
+          "height": 251,
+          "local_path": "data/extracted_images/bptm/page_2_img_1.png",
+          "storage_path": "raychem/bptm/page_2_img_1.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/bptm/page_2_img_1.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 2,
+          "image_number": 2,
+          "xref": 17,
+          "width": 279,
+          "height": 355,
+          "local_path": "data/extracted_images/bptm/page_2_img_2.png",
+          "storage_path": "raychem/bptm/page_2_img_2.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/bptm/page_2_img_2.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 2,
+          "image_number": 3,
+          "xref": 18,
+          "width": 387,
+          "height": 201,
+          "local_path": "data/extracted_images/bptm/page_2_img_3.png",
+          "storage_path": "raychem/bptm/page_2_img_3.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/bptm/page_2_img_3.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 2,
+          "image_number": 4,
+          "xref": 19,
+          "width": 959,
+          "height": 42,
+          "local_path": "data/extracted_images/bptm/page_2_img_4.png",
+          "storage_path": "raychem/bptm/page_2_img_4.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/bptm/page_2_img_4.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 2,
+          "image_number": 5,
+          "xref": 20,
+          "width": 582,
+          "height": 413,
+          "local_path": "data/extracted_images/bptm/page_2_img_5.png",
+          "storage_path": "raychem/bptm/page_2_img_5.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/bptm/page_2_img_5.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 2,
+          "image_number": 6,
+          "xref": 21,
+          "width": 1040,
+          "height": 125,
+          "local_path": "data/extracted_images/bptm/page_2_img_6.png",
+          "storage_path": "raychem/bptm/page_2_img_6.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/bptm/page_2_img_6.png",
+          "caption": null,
+          "context_text": ""
+        },
+        {
+          "page_number": 2,
+          "image_number": 7,
+          "xref": 22,
+          "width": 250,
+          "height": 355,
+          "local_path": "data/extracted_images/bptm/page_2_img_7.png",
+          "storage_path": "raychem/bptm/page_2_img_7.png",
+          "image_url": "https://lufgggszgylpnkiqitcn.supabase.co/storage/v1/object/public/product-images/raychem/bptm/page_2_img_7.png",
+          "caption": null,
+          "context_text": ""
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-07-08T09:24:09.204338+00:00"
+}
