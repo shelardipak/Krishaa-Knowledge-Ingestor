@@ -1,0 +1,14 @@
+/.bashrc
+venv/
+.local/
+.config/code-server
+.local/share/code-server/*
+.npm
+.ssh
+.voc
+.cache/*
+__pycache__/
+expense_customer_support_agent/.env
+
+# macOS metadata
+.DS_Store
